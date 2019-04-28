@@ -1,0 +1,5735 @@
+{
+	"aa": {
+		"language": "Afar",
+		"location": null,
+		"id": 4096,
+		"tag": "aa",
+		"version": "Release 10"
+	},
+	"aa-dj": {
+		"language": "Afar",
+		"location": "Djibouti",
+		"id": 4096,
+		"tag": "aa-DJ",
+		"version": "Release 10"
+	},
+	"aa-er": {
+		"language": "Afar",
+		"location": "Eritrea",
+		"id": 4096,
+		"tag": "aa-ER",
+		"version": "Release 10"
+	},
+	"aa-et": {
+		"language": "Afar",
+		"location": "Ethiopia",
+		"id": 4096,
+		"tag": "aa-ET",
+		"version": "Release 10"
+	},
+	"af": {
+		"language": "Afrikaans",
+		"location": null,
+		"id": 54,
+		"tag": "af",
+		"version": "Release 7"
+	},
+	"af-na": {
+		"language": "Afrikaans",
+		"location": "Namibia",
+		"id": 4096,
+		"tag": "af-NA",
+		"version": "Release 10"
+	},
+	"af-za": {
+		"language": "Afrikaans",
+		"location": "South Africa",
+		"id": 1078,
+		"tag": "af-ZA",
+		"version": "Release B"
+	},
+	"agq": {
+		"language": "Aghem",
+		"location": null,
+		"id": 4096,
+		"tag": "agq",
+		"version": "Release 10"
+	},
+	"agq-cm": {
+		"language": "Aghem",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "agq-CM",
+		"version": "Release 10"
+	},
+	"ak": {
+		"language": "Akan",
+		"location": null,
+		"id": 4096,
+		"tag": "ak",
+		"version": "Release 10"
+	},
+	"ak-gh": {
+		"language": "Akan",
+		"location": "Ghana",
+		"id": 4096,
+		"tag": "ak-GH",
+		"version": "Release 10"
+	},
+	"sq": {
+		"language": "Albanian",
+		"location": null,
+		"id": 28,
+		"tag": "sq",
+		"version": "Release 7"
+	},
+	"sq-al": {
+		"language": "Albanian",
+		"location": "Albania",
+		"id": 1052,
+		"tag": "sq-AL",
+		"version": "Release B"
+	},
+	"sq-mk": {
+		"language": "Albanian",
+		"location": "North Macedonia",
+		"id": 4096,
+		"tag": "sq-MK",
+		"version": "Release 10"
+	},
+	"gsw": {
+		"language": "Alsatian",
+		"location": null,
+		"id": 132,
+		"tag": "gsw",
+		"version": "Release 7"
+	},
+	"gsw-fr": {
+		"language": "Alsatian",
+		"location": "France",
+		"id": 1156,
+		"tag": "gsw-FR",
+		"version": "Release V"
+	},
+	"gsw-li": {
+		"language": "Alsatian",
+		"location": "Liechtenstein",
+		"id": 4096,
+		"tag": "gsw-LI",
+		"version": "Release 10"
+	},
+	"gsw-ch": {
+		"language": "Alsatian",
+		"location": "Switzerland",
+		"id": 4096,
+		"tag": "gsw-CH",
+		"version": "Release 10"
+	},
+	"am": {
+		"language": "Amharic",
+		"location": null,
+		"id": 94,
+		"tag": "am",
+		"version": "Release 7"
+	},
+	"am-et": {
+		"language": "Amharic",
+		"location": "Ethiopia",
+		"id": 1118,
+		"tag": "am-ET",
+		"version": "Release V"
+	},
+	"ar": {
+		"language": "Arabic",
+		"location": null,
+		"id": 1,
+		"tag": "ar",
+		"version": "Release 7"
+	},
+	"ar-dz": {
+		"language": "Arabic",
+		"location": "Algeria",
+		"id": 5121,
+		"tag": "ar-DZ",
+		"version": "Release B"
+	},
+	"ar-bh": {
+		"language": "Arabic",
+		"location": "Bahrain",
+		"id": 15361,
+		"tag": "ar-BH",
+		"version": "Release B"
+	},
+	"ar-td": {
+		"language": "Arabic",
+		"location": "Chad",
+		"id": 4096,
+		"tag": "ar-TD",
+		"version": "Release 10"
+	},
+	"ar-km": {
+		"language": "Arabic",
+		"location": "Comoros",
+		"id": 4096,
+		"tag": "ar-KM",
+		"version": "Release 10"
+	},
+	"ar-dj": {
+		"language": "Arabic",
+		"location": "Djibouti",
+		"id": 4096,
+		"tag": "ar-DJ",
+		"version": "Release 10"
+	},
+	"ar-eg": {
+		"language": "Arabic",
+		"location": "Egypt",
+		"id": 3073,
+		"tag": "ar-EG",
+		"version": "Release B"
+	},
+	"ar-er": {
+		"language": "Arabic",
+		"location": "Eritrea",
+		"id": 4096,
+		"tag": "ar-ER",
+		"version": "Release 10"
+	},
+	"ar-iq": {
+		"language": "Arabic",
+		"location": "Iraq",
+		"id": 2049,
+		"tag": "ar-IQ",
+		"version": "Release B"
+	},
+	"ar-il": {
+		"language": "Arabic",
+		"location": "Israel",
+		"id": 4096,
+		"tag": "ar-IL",
+		"version": "Release 10"
+	},
+	"ar-jo": {
+		"language": "Arabic",
+		"location": "Jordan",
+		"id": 11265,
+		"tag": "ar-JO",
+		"version": "Release B"
+	},
+	"ar-kw": {
+		"language": "Arabic",
+		"location": "Kuwait",
+		"id": 13313,
+		"tag": "ar-KW",
+		"version": "Release B"
+	},
+	"ar-lb": {
+		"language": "Arabic",
+		"location": "Lebanon",
+		"id": 12289,
+		"tag": "ar-LB",
+		"version": "Release B"
+	},
+	"ar-ly": {
+		"language": "Arabic",
+		"location": "Libya",
+		"id": 4097,
+		"tag": "ar-LY",
+		"version": "Release B"
+	},
+	"ar-mr": {
+		"language": "Arabic",
+		"location": "Mauritania",
+		"id": 4096,
+		"tag": "ar-MR",
+		"version": "Release 10"
+	},
+	"ar-ma": {
+		"language": "Arabic",
+		"location": "Morocco",
+		"id": 6145,
+		"tag": "ar-MA",
+		"version": "Release B"
+	},
+	"ar-om": {
+		"language": "Arabic",
+		"location": "Oman",
+		"id": 8193,
+		"tag": "ar-OM",
+		"version": "Release B"
+	},
+	"ar-ps": {
+		"language": "Arabic",
+		"location": "Palestinian Authority",
+		"id": 4096,
+		"tag": "ar-PS",
+		"version": "Release 10"
+	},
+	"ar-qa": {
+		"language": "Arabic",
+		"location": "Qatar",
+		"id": 16385,
+		"tag": "ar-QA",
+		"version": "Release B"
+	},
+	"ar-sa": {
+		"language": "Arabic",
+		"location": "Saudi Arabia",
+		"id": 1025,
+		"tag": "ar-SA",
+		"version": "Release B"
+	},
+	"ar-so": {
+		"language": "Arabic",
+		"location": "Somalia",
+		"id": 4096,
+		"tag": "ar-SO",
+		"version": "Release 10"
+	},
+	"ar-ss": {
+		"language": "Arabic",
+		"location": "South Sudan",
+		"id": 4096,
+		"tag": "ar-SS",
+		"version": "Release 10"
+	},
+	"ar-sd": {
+		"language": "Arabic",
+		"location": "Sudan",
+		"id": 4096,
+		"tag": "ar-SD",
+		"version": "Release 10"
+	},
+	"ar-sy": {
+		"language": "Arabic",
+		"location": "Syria",
+		"id": 10241,
+		"tag": "ar-SY",
+		"version": "Release B"
+	},
+	"ar-tn": {
+		"language": "Arabic",
+		"location": "Tunisia",
+		"id": 7169,
+		"tag": "ar-TN",
+		"version": "Release B"
+	},
+	"ar-ae": {
+		"language": "Arabic",
+		"location": "U.A.E.",
+		"id": 14337,
+		"tag": "ar-AE",
+		"version": "Release B"
+	},
+	"ar-001": {
+		"language": "Arabic",
+		"location": "World",
+		"id": 4096,
+		"tag": "ar-001",
+		"version": "Release 10"
+	},
+	"ar-ye": {
+		"language": "Arabic",
+		"location": "Yemen",
+		"id": 9217,
+		"tag": "ar-YE",
+		"version": "Release B"
+	},
+	"hy": {
+		"language": "Armenian",
+		"location": null,
+		"id": 43,
+		"tag": "hy",
+		"version": "Release 7"
+	},
+	"hy-am": {
+		"language": "Armenian",
+		"location": "Armenia",
+		"id": 1067,
+		"tag": "hy-AM",
+		"version": "Release C"
+	},
+	"as": {
+		"language": "Assamese",
+		"location": null,
+		"id": 77,
+		"tag": "as",
+		"version": "Release 7"
+	},
+	"as-in": {
+		"language": "Assamese",
+		"location": "India",
+		"id": 1101,
+		"tag": "as-IN",
+		"version": "Release V"
+	},
+	"ast": {
+		"language": "Asturian",
+		"location": null,
+		"id": 4096,
+		"tag": "ast",
+		"version": "Release 10"
+	},
+	"ast-es": {
+		"language": "Asturian",
+		"location": "Spain",
+		"id": 4096,
+		"tag": "ast-ES",
+		"version": "Release 10"
+	},
+	"asa": {
+		"language": "Asu",
+		"location": null,
+		"id": 4096,
+		"tag": "asa",
+		"version": "Release 10"
+	},
+	"asa-tz": {
+		"language": "Asu",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "asa-TZ",
+		"version": "Release 10"
+	},
+	"az-cyrl": {
+		"language": "Azerbaijani (Cyrillic)",
+		"location": null,
+		"id": 29740,
+		"tag": "az-Cyrl",
+		"version": "Windows 7"
+	},
+	"az-cyrl-az": {
+		"language": "Azerbaijani (Cyrillic)",
+		"location": "Azerbaijan",
+		"id": 2092,
+		"tag": "az-Cyrl-AZ",
+		"version": "Release C"
+	},
+	"az": {
+		"language": "Azerbaijani (Latin)",
+		"location": null,
+		"id": 44,
+		"tag": "az",
+		"version": "Release 7"
+	},
+	"az-latn": {
+		"language": "Azerbaijani (Latin)",
+		"location": null,
+		"id": 30764,
+		"tag": "az-Latn",
+		"version": "Windows 7"
+	},
+	"az-latn-az": {
+		"language": "Azerbaijani (Latin)",
+		"location": "Azerbaijan",
+		"id": 1068,
+		"tag": "az-Latn-AZ",
+		"version": "Release C"
+	},
+	"ksf": {
+		"language": "Bafia",
+		"location": null,
+		"id": 4096,
+		"tag": "ksf",
+		"version": "Release 10"
+	},
+	"ksf-cm": {
+		"language": "Bafia",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "ksf-CM",
+		"version": "Release 10"
+	},
+	"bm": {
+		"language": "Bamanankan",
+		"location": null,
+		"id": 4096,
+		"tag": "bm",
+		"version": "Release 10"
+	},
+	"bm-latn-ml": {
+		"language": "Bamanankan (Latin)",
+		"location": "Mali",
+		"id": 4096,
+		"tag": "bm-Latn-ML",
+		"version": "Release 10"
+	},
+	"bn": {
+		"language": "Bangla",
+		"location": null,
+		"id": 69,
+		"tag": "bn",
+		"version": "Release 7"
+	},
+	"bn-bd": {
+		"language": "Bangla",
+		"location": "Bangladesh",
+		"id": 2117,
+		"tag": "bn-BD",
+		"version": "Release V"
+	},
+	"bn-in": {
+		"language": "Bangla",
+		"location": "India",
+		"id": 1093,
+		"tag": "bn-IN",
+		"version": "Release E1"
+	},
+	"bas": {
+		"language": "Basaa",
+		"location": null,
+		"id": 4096,
+		"tag": "bas",
+		"version": "Release 10"
+	},
+	"bas-cm": {
+		"language": "Basaa",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "bas-CM",
+		"version": "Release 10"
+	},
+	"ba": {
+		"language": "Bashkir",
+		"location": null,
+		"id": 109,
+		"tag": "ba",
+		"version": "Release 7"
+	},
+	"ba-ru": {
+		"language": "Bashkir",
+		"location": "Russia",
+		"id": 1133,
+		"tag": "ba-RU",
+		"version": "Release V"
+	},
+	"eu": {
+		"language": "Basque",
+		"location": null,
+		"id": 45,
+		"tag": "eu",
+		"version": "Release 7"
+	},
+	"eu-es": {
+		"language": "Basque",
+		"location": "Spain",
+		"id": 1069,
+		"tag": "eu-ES",
+		"version": "Release B"
+	},
+	"be": {
+		"language": "Belarusian",
+		"location": null,
+		"id": 35,
+		"tag": "be",
+		"version": "Release 7"
+	},
+	"be-by": {
+		"language": "Belarusian",
+		"location": "Belarus",
+		"id": 1059,
+		"tag": "be-BY",
+		"version": "Release B"
+	},
+	"bem": {
+		"language": "Bemba",
+		"location": null,
+		"id": 4096,
+		"tag": "bem",
+		"version": "Release 10"
+	},
+	"bem-zm": {
+		"language": "Bemba",
+		"location": "Zambia",
+		"id": 4096,
+		"tag": "bem-ZM",
+		"version": "Release 10"
+	},
+	"bez": {
+		"language": "Bena",
+		"location": null,
+		"id": 4096,
+		"tag": "bez",
+		"version": "Release 10"
+	},
+	"bez-tz": {
+		"language": "Bena",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "bez-TZ",
+		"version": "Release 10"
+	},
+	"byn": {
+		"language": "Blin",
+		"location": null,
+		"id": 4096,
+		"tag": "byn",
+		"version": "Release 10"
+	},
+	"byn-er": {
+		"language": "Blin",
+		"location": "Eritrea",
+		"id": 4096,
+		"tag": "byn-ER",
+		"version": "Release 10"
+	},
+	"brx": {
+		"language": "Bodo",
+		"location": null,
+		"id": 4096,
+		"tag": "brx",
+		"version": "Release 10"
+	},
+	"brx-in": {
+		"language": "Bodo",
+		"location": "India",
+		"id": 4096,
+		"tag": "brx-IN",
+		"version": "Release 10"
+	},
+	"bs-cyrl": {
+		"language": "Bosnian (Cyrillic)",
+		"location": null,
+		"id": 25626,
+		"tag": "bs-Cyrl",
+		"version": "Windows 7"
+	},
+	"bs-cyrl-ba": {
+		"language": "Bosnian (Cyrillic)",
+		"location": "Bosnia and Herzegovina",
+		"id": 8218,
+		"tag": "bs-Cyrl-BA",
+		"version": "Release E1"
+	},
+	"bs-latn": {
+		"language": "Bosnian (Latin)",
+		"location": null,
+		"id": 26650,
+		"tag": "bs-Latn",
+		"version": "Windows 7"
+	},
+	"bs": {
+		"language": "Bosnian (Latin)",
+		"location": null,
+		"id": 30746,
+		"tag": "bs",
+		"version": "Release 7"
+	},
+	"bs-latn-ba": {
+		"language": "Bosnian (Latin)",
+		"location": "Bosnia and Herzegovina",
+		"id": 5146,
+		"tag": "bs-Latn-BA",
+		"version": "Release E1"
+	},
+	"br": {
+		"language": "Breton",
+		"location": null,
+		"id": 126,
+		"tag": "br",
+		"version": "Release 7"
+	},
+	"br-fr": {
+		"language": "Breton",
+		"location": "France",
+		"id": 1150,
+		"tag": "br-FR",
+		"version": "Release V"
+	},
+	"bg": {
+		"language": "Bulgarian",
+		"location": null,
+		"id": 2,
+		"tag": "bg",
+		"version": "Release 7"
+	},
+	"bg-bg": {
+		"language": "Bulgarian",
+		"location": "Bulgaria",
+		"id": 1026,
+		"tag": "bg-BG",
+		"version": "Release B"
+	},
+	"my": {
+		"language": "Burmese",
+		"location": null,
+		"id": 85,
+		"tag": "my",
+		"version": "Release 8.1"
+	},
+	"my-mm": {
+		"language": "Burmese",
+		"location": "Myanmar",
+		"id": 1109,
+		"tag": "my-MM",
+		"version": "Release 8.1"
+	},
+	"ca": {
+		"language": "Catalan",
+		"location": null,
+		"id": 3,
+		"tag": "ca",
+		"version": "Release 7"
+	},
+	"ca-ad": {
+		"language": "Catalan",
+		"location": "Andorra",
+		"id": 4096,
+		"tag": "ca-AD",
+		"version": "Release 10"
+	},
+	"ca-fr": {
+		"language": "Catalan",
+		"location": "France",
+		"id": 4096,
+		"tag": "ca-FR",
+		"version": "Release 10"
+	},
+	"ca-it": {
+		"language": "Catalan",
+		"location": "Italy",
+		"id": 4096,
+		"tag": "ca-IT",
+		"version": "Release 10"
+	},
+	"ca-es": {
+		"language": "Catalan",
+		"location": "Spain",
+		"id": 1027,
+		"tag": "ca-ES",
+		"version": "Release B"
+	},
+	"tzm-latn-": {
+		"language": "Central Atlas Tamazight ",
+		"location": "Morocco",
+		"id": 4096,
+		"tag": "tzm-Latn-",
+		"version": "Release 10"
+	},
+	"ku": {
+		"language": "Central Kurdish",
+		"location": null,
+		"id": 146,
+		"tag": "ku",
+		"version": "Release 8"
+	},
+	"ku-arab": {
+		"language": "Central Kurdish",
+		"location": null,
+		"id": 31890,
+		"tag": "ku-Arab",
+		"version": "Release 8"
+	},
+	"ku-arab-iq": {
+		"language": "Central Kurdish",
+		"location": "Iraq",
+		"id": 1170,
+		"tag": "ku-Arab-IQ",
+		"version": "Release 8"
+	},
+	"cd-ru": {
+		"language": "Chechen",
+		"location": "Russia",
+		"id": 4096,
+		"tag": "cd-RU",
+		"version": "Release 10.1"
+	},
+	"chr": {
+		"language": "Cherokee",
+		"location": null,
+		"id": 92,
+		"tag": "chr",
+		"version": "Release 8"
+	},
+	"chr-cher": {
+		"language": "Cherokee",
+		"location": null,
+		"id": 31836,
+		"tag": "chr-Cher",
+		"version": "Release 8"
+	},
+	"chr-cher-us": {
+		"language": "Cherokee",
+		"location": "United States",
+		"id": 1116,
+		"tag": "chr-Cher-US",
+		"version": "Release 8"
+	},
+	"cgg": {
+		"language": "Chiga",
+		"location": null,
+		"id": 4096,
+		"tag": "cgg",
+		"version": "Release 10"
+	},
+	"cgg-ug": {
+		"language": "Chiga",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "cgg-UG",
+		"version": "Release 10"
+	},
+	"zh-hans": {
+		"language": "Chinese (Simplified)",
+		"location": null,
+		"id": 4,
+		"tag": "zh-Hans",
+		"version": "Release A"
+	},
+	"zh": {
+		"language": "Chinese (Simplified)",
+		"location": null,
+		"id": 30724,
+		"tag": "zh",
+		"version": "Windows 7"
+	},
+	"zh-cn": {
+		"language": "Chinese (Simplified)",
+		"location": "People's Republic of China",
+		"id": 2052,
+		"tag": "zh-CN",
+		"version": "Release A"
+	},
+	"zh-sg": {
+		"language": "Chinese (Simplified)",
+		"location": "Singapore",
+		"id": 4100,
+		"tag": "zh-SG",
+		"version": "Release A"
+	},
+	"zh-hant": {
+		"language": "Chinese (Traditional)",
+		"location": null,
+		"id": 31748,
+		"tag": "zh-Hant",
+		"version": "Release A"
+	},
+	"zh-hk": {
+		"language": "Chinese (Traditional)",
+		"location": "Hong Kong S.A.R.",
+		"id": 3076,
+		"tag": "zh-HK",
+		"version": "Release A"
+	},
+	"zh-mo": {
+		"language": "Chinese (Traditional)",
+		"location": "Macao S.A.R.",
+		"id": 5124,
+		"tag": "zh-MO",
+		"version": "Release D"
+	},
+	"zh-tw": {
+		"language": "Chinese (Traditional)",
+		"location": "Taiwan",
+		"id": 1028,
+		"tag": "zh-TW",
+		"version": "Release A"
+	},
+	"cu-ru": {
+		"language": "Church Slavic",
+		"location": "Russia",
+		"id": 4096,
+		"tag": "cu-RU",
+		"version": "Release 10.1"
+	},
+	"swc": {
+		"language": "Congo Swahili",
+		"location": null,
+		"id": 4096,
+		"tag": "swc",
+		"version": "Release 10"
+	},
+	"swc-cd": {
+		"language": "Congo Swahili",
+		"location": "Congo DRC",
+		"id": 4096,
+		"tag": "swc-CD",
+		"version": "Release 10"
+	},
+	"kw": {
+		"language": "Cornish",
+		"location": null,
+		"id": 4096,
+		"tag": "kw",
+		"version": "Release 10"
+	},
+	"kw-gb": {
+		"language": "Cornish",
+		"location": "United Kingdom",
+		"id": 4096,
+		"tag": "kw-GB",
+		"version": "Release 10"
+	},
+	"co": {
+		"language": "Corsican",
+		"location": null,
+		"id": 131,
+		"tag": "co",
+		"version": "Release 7"
+	},
+	"co-fr": {
+		"language": "Corsican",
+		"location": "France",
+		"id": 1155,
+		"tag": "co-FR",
+		"version": "Release V"
+	},
+	"hr,": {
+		"language": "Croatian",
+		"location": null,
+		"id": 26,
+		"tag": "hr,",
+		"version": "Release 7"
+	},
+	"hr-hr": {
+		"language": "Croatian",
+		"location": "Croatia",
+		"id": 1050,
+		"tag": "hr-HR",
+		"version": "Release A"
+	},
+	"hr-ba": {
+		"language": "Croatian (Latin)",
+		"location": "Bosnia and Herzegovina",
+		"id": 4122,
+		"tag": "hr-BA",
+		"version": "Release E1"
+	},
+	"cs": {
+		"language": "Czech",
+		"location": null,
+		"id": 5,
+		"tag": "cs",
+		"version": "Release 7"
+	},
+	"cs-cz": {
+		"language": "Czech",
+		"location": "Czech Republic",
+		"id": 1029,
+		"tag": "cs-CZ",
+		"version": "Release A"
+	},
+	"da": {
+		"language": "Danish",
+		"location": null,
+		"id": 6,
+		"tag": "da",
+		"version": "Release 7"
+	},
+	"da-dk": {
+		"language": "Danish",
+		"location": "Denmark",
+		"id": 1030,
+		"tag": "da-DK",
+		"version": "Release A"
+	},
+	"da-gl": {
+		"language": "Danish",
+		"location": "Greenland",
+		"id": 4096,
+		"tag": "da-GL",
+		"version": "Release 10"
+	},
+	"prs": {
+		"language": "Dari",
+		"location": null,
+		"id": 140,
+		"tag": "prs",
+		"version": "Release 7"
+	},
+	"prs-af": {
+		"language": "Dari",
+		"location": "Afghanistan",
+		"id": 1164,
+		"tag": "prs-AF",
+		"version": "Release V"
+	},
+	"dv": {
+		"language": "Divehi",
+		"location": null,
+		"id": 101,
+		"tag": "dv",
+		"version": "Release 7"
+	},
+	"dv-mv": {
+		"language": "Divehi",
+		"location": "Maldives",
+		"id": 1125,
+		"tag": "dv-MV",
+		"version": "ReleaseD"
+	},
+	"dua": {
+		"language": "Duala",
+		"location": null,
+		"id": 4096,
+		"tag": "dua",
+		"version": "Release 10"
+	},
+	"dua-cm": {
+		"language": "Duala",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "dua-CM",
+		"version": "Release 10"
+	},
+	"nl": {
+		"language": "Dutch",
+		"location": null,
+		"id": 19,
+		"tag": "nl",
+		"version": "Release 7"
+	},
+	"nl-aw": {
+		"language": "Dutch",
+		"location": "Aruba",
+		"id": 4096,
+		"tag": "nl-AW",
+		"version": "Release 10"
+	},
+	"nl-be": {
+		"language": "Dutch",
+		"location": "Belgium",
+		"id": 2067,
+		"tag": "nl-BE",
+		"version": "Release A"
+	},
+	"nl-bq": {
+		"language": "Dutch",
+		"location": "Bonaire, Sint Eustatius and Saba",
+		"id": 4096,
+		"tag": "nl-BQ",
+		"version": "Release 10"
+	},
+	"nl-cw": {
+		"language": "Dutch",
+		"location": "Curaçao",
+		"id": 4096,
+		"tag": "nl-CW",
+		"version": "Release 10"
+	},
+	"nl-nl": {
+		"language": "Dutch",
+		"location": "Netherlands",
+		"id": 1043,
+		"tag": "nl-NL",
+		"version": "Release A"
+	},
+	"nl-sx": {
+		"language": "Dutch",
+		"location": "Sint Maarten",
+		"id": 4096,
+		"tag": "nl-SX",
+		"version": "Release 10"
+	},
+	"nl-sr": {
+		"language": "Dutch",
+		"location": "Suriname",
+		"id": 4096,
+		"tag": "nl-SR",
+		"version": "Release 10"
+	},
+	"dz": {
+		"language": "Dzongkha",
+		"location": null,
+		"id": 4096,
+		"tag": "dz",
+		"version": "Release 10"
+	},
+	"dz-bt": {
+		"language": "Dzongkha",
+		"location": "Bhutan",
+		"id": 3153,
+		"tag": "dz-BT",
+		"version": "Release 10"
+	},
+	"ebu": {
+		"language": "Embu",
+		"location": null,
+		"id": 4096,
+		"tag": "ebu",
+		"version": "Release 10"
+	},
+	"ebu-ke": {
+		"language": "Embu",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "ebu-KE",
+		"version": "Release 10"
+	},
+	"en": {
+		"language": "English",
+		"location": null,
+		"id": 9,
+		"tag": "en",
+		"version": "Release 7"
+	},
+	"en-as": {
+		"language": "English",
+		"location": "American Samoa",
+		"id": 4096,
+		"tag": "en-AS",
+		"version": "Release 10"
+	},
+	"en-ai": {
+		"language": "English",
+		"location": "Anguilla",
+		"id": 4096,
+		"tag": "en-AI",
+		"version": "Release 10"
+	},
+	"en-ag": {
+		"language": "English",
+		"location": "Antigua and Barbuda",
+		"id": 4096,
+		"tag": "en-AG",
+		"version": "Release 10"
+	},
+	"en-au": {
+		"language": "English",
+		"location": "Australia",
+		"id": 3081,
+		"tag": "en-AU",
+		"version": "Release A"
+	},
+	"en-at": {
+		"language": "English",
+		"location": "Austria",
+		"id": 4096,
+		"tag": "en-AT",
+		"version": "Release 10.1"
+	},
+	"en-bs": {
+		"language": "English",
+		"location": "Bahamas",
+		"id": 4096,
+		"tag": "en-BS",
+		"version": "Release 10"
+	},
+	"en-bb": {
+		"language": "English",
+		"location": "Barbados",
+		"id": 4096,
+		"tag": "en-BB",
+		"version": "Release 10"
+	},
+	"en-be": {
+		"language": "English",
+		"location": "Belgium",
+		"id": 4096,
+		"tag": "en-BE",
+		"version": "Release 10"
+	},
+	"en-bz": {
+		"language": "English",
+		"location": "Belize",
+		"id": 10249,
+		"tag": "en-BZ",
+		"version": "Release B"
+	},
+	"en-bm": {
+		"language": "English",
+		"location": "Bermuda",
+		"id": 4096,
+		"tag": "en-BM",
+		"version": "Release 10"
+	},
+	"en-bw": {
+		"language": "English",
+		"location": "Botswana",
+		"id": 4096,
+		"tag": "en-BW",
+		"version": "Release 10"
+	},
+	"en-io": {
+		"language": "English",
+		"location": "British Indian Ocean Territory",
+		"id": 4096,
+		"tag": "en-IO",
+		"version": "Release 10"
+	},
+	"en-vg": {
+		"language": "English",
+		"location": "British Virgin Islands",
+		"id": 4096,
+		"tag": "en-VG",
+		"version": "Release 10"
+	},
+	"en-bi": {
+		"language": "English",
+		"location": "Burundi",
+		"id": 4096,
+		"tag": "en-BI",
+		"version": "Release 10.1"
+	},
+	"en-cm": {
+		"language": "English",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "en-CM",
+		"version": "Release 10"
+	},
+	"en-ca": {
+		"language": "English",
+		"location": "Canada",
+		"id": 4105,
+		"tag": "en-CA",
+		"version": "Release A"
+	},
+	"en-029": {
+		"language": "English",
+		"location": "Caribbean",
+		"id": 9225,
+		"tag": "en-029",
+		"version": "Release B"
+	},
+	"en-ky": {
+		"language": "English",
+		"location": "Cayman Islands",
+		"id": 4096,
+		"tag": "en-KY",
+		"version": "Release 10"
+	},
+	"en-cx": {
+		"language": "English",
+		"location": "Christmas Island",
+		"id": 4096,
+		"tag": "en-CX",
+		"version": "Release 10"
+	},
+	"en-cc": {
+		"language": "English",
+		"location": "Cocos [Keeling] Islands",
+		"id": 4096,
+		"tag": "en-CC",
+		"version": "Release 10"
+	},
+	"en-ck": {
+		"language": "English",
+		"location": "Cook Islands",
+		"id": 4096,
+		"tag": "en-CK",
+		"version": "Release 10"
+	},
+	"en-cy": {
+		"language": "English",
+		"location": "Cyprus",
+		"id": 4096,
+		"tag": "en-CY",
+		"version": "Release 10.1"
+	},
+	"en-dk": {
+		"language": "English",
+		"location": "Denmark",
+		"id": 4096,
+		"tag": "en-DK",
+		"version": "Release 10.1"
+	},
+	"en-dm": {
+		"language": "English",
+		"location": "Dominica",
+		"id": 4096,
+		"tag": "en-DM",
+		"version": "Release 10"
+	},
+	"en-er": {
+		"language": "English",
+		"location": "Eritrea",
+		"id": 4096,
+		"tag": "en-ER",
+		"version": "Release 10"
+	},
+	"en-150": {
+		"language": "English",
+		"location": "Europe",
+		"id": 4096,
+		"tag": "en-150",
+		"version": "Release 10"
+	},
+	"en-fk": {
+		"language": "English",
+		"location": "Falkland Islands",
+		"id": 4096,
+		"tag": "en-FK",
+		"version": "Release 10"
+	},
+	"en-fi": {
+		"language": "English",
+		"location": "Finland",
+		"id": 4096,
+		"tag": "en-FI",
+		"version": "Release 10.1"
+	},
+	"en-fj": {
+		"language": "English",
+		"location": "Fiji",
+		"id": 4096,
+		"tag": "en-FJ",
+		"version": "Release 10"
+	},
+	"en-gm": {
+		"language": "English",
+		"location": "Gambia",
+		"id": 4096,
+		"tag": "en-GM",
+		"version": "Release 10"
+	},
+	"en-de": {
+		"language": "English",
+		"location": "Germany",
+		"id": 4096,
+		"tag": "en-DE",
+		"version": "Release 10.1"
+	},
+	"en-gh": {
+		"language": "English",
+		"location": "Ghana",
+		"id": 4096,
+		"tag": "en-GH",
+		"version": "Release 10"
+	},
+	"en-gi": {
+		"language": "English",
+		"location": "Gibraltar",
+		"id": 4096,
+		"tag": "en-GI",
+		"version": "Release 10"
+	},
+	"en-gd": {
+		"language": "English",
+		"location": "Grenada",
+		"id": 4096,
+		"tag": "en-GD",
+		"version": "Release 10"
+	},
+	"en-gu": {
+		"language": "English",
+		"location": "Guam",
+		"id": 4096,
+		"tag": "en-GU",
+		"version": "Release 10"
+	},
+	"en-gg": {
+		"language": "English",
+		"location": "Guernsey",
+		"id": 4096,
+		"tag": "en-GG",
+		"version": "Release 10"
+	},
+	"en-gy": {
+		"language": "English",
+		"location": "Guyana",
+		"id": 4096,
+		"tag": "en-GY",
+		"version": "Release 10"
+	},
+	"en-hk": {
+		"language": "English",
+		"location": "Hong Kong",
+		"id": 15369,
+		"tag": "en-HK",
+		"version": "Release 8.1"
+	},
+	"en-in": {
+		"language": "English",
+		"location": "India",
+		"id": 16393,
+		"tag": "en-IN",
+		"version": "Release V"
+	},
+	"en-ie": {
+		"language": "English",
+		"location": "Ireland",
+		"id": 6153,
+		"tag": "en-IE",
+		"version": "Release A"
+	},
+	"en-im": {
+		"language": "English",
+		"location": "Isle of Man",
+		"id": 4096,
+		"tag": "en-IM",
+		"version": "Release 10"
+	},
+	"en-il": {
+		"language": "English",
+		"location": "Israel",
+		"id": 4096,
+		"tag": "en-IL",
+		"version": "Release 10.1"
+	},
+	"en-jm": {
+		"language": "English",
+		"location": "Jamaica",
+		"id": 8201,
+		"tag": "en-JM",
+		"version": "Release B"
+	},
+	"en-je": {
+		"language": "English",
+		"location": "Jersey",
+		"id": 4096,
+		"tag": "en-JE",
+		"version": "Release 10"
+	},
+	"en-ke": {
+		"language": "English",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "en-KE",
+		"version": "Release 10"
+	},
+	"en-ki": {
+		"language": "English",
+		"location": "Kiribati",
+		"id": 4096,
+		"tag": "en-KI",
+		"version": "Release 10"
+	},
+	"en-ls": {
+		"language": "English",
+		"location": "Lesotho",
+		"id": 4096,
+		"tag": "en-LS",
+		"version": "Release 10"
+	},
+	"en-lr": {
+		"language": "English",
+		"location": "Liberia",
+		"id": 4096,
+		"tag": "en-LR",
+		"version": "Release 10"
+	},
+	"en-mo": {
+		"language": "English",
+		"location": "Macao SAR",
+		"id": 4096,
+		"tag": "en-MO",
+		"version": "Release 10"
+	},
+	"en-mg": {
+		"language": "English",
+		"location": "Madagascar",
+		"id": 4096,
+		"tag": "en-MG",
+		"version": "Release 10"
+	},
+	"en-mw": {
+		"language": "English",
+		"location": "Malawi",
+		"id": 4096,
+		"tag": "en-MW",
+		"version": "Release 10"
+	},
+	"en-my": {
+		"language": "English",
+		"location": "Malaysia",
+		"id": 17417,
+		"tag": "en-MY",
+		"version": "Release V"
+	},
+	"en-mt": {
+		"language": "English",
+		"location": "Malta",
+		"id": 4096,
+		"tag": "en-MT",
+		"version": "Release 10"
+	},
+	"en-mh": {
+		"language": "English",
+		"location": "Marshall Islands",
+		"id": 4096,
+		"tag": "en-MH",
+		"version": "Release 10"
+	},
+	"en-mu": {
+		"language": "English",
+		"location": "Mauritius",
+		"id": 4096,
+		"tag": "en-MU",
+		"version": "Release 10"
+	},
+	"en-fm": {
+		"language": "English",
+		"location": "Micronesia",
+		"id": 4096,
+		"tag": "en-FM",
+		"version": "Release 10"
+	},
+	"en-ms": {
+		"language": "English",
+		"location": "Montserrat",
+		"id": 4096,
+		"tag": "en-MS",
+		"version": "Release 10"
+	},
+	"en-na": {
+		"language": "English",
+		"location": "Namibia",
+		"id": 4096,
+		"tag": "en-NA",
+		"version": "Release 10"
+	},
+	"en-nr": {
+		"language": "English",
+		"location": "Nauru",
+		"id": 4096,
+		"tag": "en-NR",
+		"version": "Release 10"
+	},
+	"en-nl": {
+		"language": "English",
+		"location": "Netherlands",
+		"id": 4096,
+		"tag": "en-NL",
+		"version": "Release 10.1"
+	},
+	"en-nz": {
+		"language": "English",
+		"location": "New Zealand",
+		"id": 5129,
+		"tag": "en-NZ",
+		"version": "Release A"
+	},
+	"en-ng": {
+		"language": "English",
+		"location": "Nigeria",
+		"id": 4096,
+		"tag": "en-NG",
+		"version": "Release 10"
+	},
+	"en-nu": {
+		"language": "English",
+		"location": "Niue",
+		"id": 4096,
+		"tag": "en-NU",
+		"version": "Release 10"
+	},
+	"en-nf": {
+		"language": "English",
+		"location": "Norfolk Island",
+		"id": 4096,
+		"tag": "en-NF",
+		"version": "Release 10"
+	},
+	"en-mp": {
+		"language": "English",
+		"location": "Northern Mariana Islands",
+		"id": 4096,
+		"tag": "en-MP",
+		"version": "Release 10"
+	},
+	"en-pk": {
+		"language": "English",
+		"location": "Pakistan",
+		"id": 4096,
+		"tag": "en-PK",
+		"version": "Release 10"
+	},
+	"en-pw": {
+		"language": "English",
+		"location": "Palau",
+		"id": 4096,
+		"tag": "en-PW",
+		"version": "Release 10"
+	},
+	"en-pg": {
+		"language": "English",
+		"location": "Papua New Guinea",
+		"id": 4096,
+		"tag": "en-PG",
+		"version": "Release 10"
+	},
+	"en-pn": {
+		"language": "English",
+		"location": "Pitcairn Islands",
+		"id": 4096,
+		"tag": "en-PN",
+		"version": "Release 10"
+	},
+	"en-pr": {
+		"language": "English",
+		"location": "Puerto Rico",
+		"id": 4096,
+		"tag": "en-PR",
+		"version": "Release 10"
+	},
+	"en-ph": {
+		"language": "English",
+		"location": "Republic of the Philippines",
+		"id": 13321,
+		"tag": "en-PH",
+		"version": "Release C"
+	},
+	"en-rw": {
+		"language": "English",
+		"location": "Rwanda",
+		"id": 4096,
+		"tag": "en-RW",
+		"version": "Release 10"
+	},
+	"en-kn": {
+		"language": "English",
+		"location": "Saint Kitts and Nevis",
+		"id": 4096,
+		"tag": "en-KN",
+		"version": "Release 10"
+	},
+	"en-lc": {
+		"language": "English",
+		"location": "Saint Lucia",
+		"id": 4096,
+		"tag": "en-LC",
+		"version": "Release 10"
+	},
+	"en-vc": {
+		"language": "English",
+		"location": "Saint Vincent and the Grenadines",
+		"id": 4096,
+		"tag": "en-VC",
+		"version": "Release 10"
+	},
+	"en-ws": {
+		"language": "English",
+		"location": "Samoa",
+		"id": 4096,
+		"tag": "en-WS",
+		"version": "Release 10"
+	},
+	"en-sc": {
+		"language": "English",
+		"location": "Seychelles",
+		"id": 4096,
+		"tag": "en-SC",
+		"version": "Release 10"
+	},
+	"en-sl": {
+		"language": "English",
+		"location": "Sierra Leone",
+		"id": 4096,
+		"tag": "en-SL",
+		"version": "Release 10"
+	},
+	"en-sg": {
+		"language": "English",
+		"location": "Singapore",
+		"id": 18441,
+		"tag": "en-SG",
+		"version": "Release V"
+	},
+	"en-sx": {
+		"language": "English",
+		"location": "Sint Maarten",
+		"id": 4096,
+		"tag": "en-SX",
+		"version": "Release 10"
+	},
+	"en-si": {
+		"language": "English",
+		"location": "Slovenia",
+		"id": 4096,
+		"tag": "en-SI",
+		"version": "Release 10.1"
+	},
+	"en-sb": {
+		"language": "English",
+		"location": "Solomon Islands",
+		"id": 4096,
+		"tag": "en-SB",
+		"version": "Release 10"
+	},
+	"en-za": {
+		"language": "English",
+		"location": "South Africa",
+		"id": 7177,
+		"tag": "en-ZA",
+		"version": "Release B"
+	},
+	"en-ss": {
+		"language": "English",
+		"location": "South Sudan",
+		"id": 4096,
+		"tag": "en-SS",
+		"version": "Release 10"
+	},
+	"en-sh": {
+		"language": "English",
+		"location": "St Helena, Ascension, Tristan da ",
+		"id": 4096,
+		"tag": "en-SH",
+		"version": "Release 10"
+	},
+	"en-sd": {
+		"language": "English",
+		"location": "Sudan",
+		"id": 4096,
+		"tag": "en-SD",
+		"version": "Release 10"
+	},
+	"en-sz": {
+		"language": "English",
+		"location": "Swaziland",
+		"id": 4096,
+		"tag": "en-SZ",
+		"version": "Release 10"
+	},
+	"en-se": {
+		"language": "English",
+		"location": "Sweden",
+		"id": 4096,
+		"tag": "en-SE",
+		"version": "Release 10.1"
+	},
+	"en-ch": {
+		"language": "English",
+		"location": "Switzerland",
+		"id": 4096,
+		"tag": "en-CH",
+		"version": "Release 10.1"
+	},
+	"en-tz": {
+		"language": "English",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "en-TZ",
+		"version": "Release 10"
+	},
+	"en-tk": {
+		"language": "English",
+		"location": "Tokelau",
+		"id": 4096,
+		"tag": "en-TK",
+		"version": "Release 10"
+	},
+	"en-to": {
+		"language": "English",
+		"location": "Tonga",
+		"id": 4096,
+		"tag": "en-TO",
+		"version": "Release 10"
+	},
+	"en-tt": {
+		"language": "English",
+		"location": "Trinidad and Tobago",
+		"id": 11273,
+		"tag": "en-TT",
+		"version": "Release B"
+	},
+	"en-tc": {
+		"language": "English",
+		"location": "Turks and Caicos Islands",
+		"id": 4096,
+		"tag": "en-TC",
+		"version": "Release 10"
+	},
+	"en-tv": {
+		"language": "English",
+		"location": "Tuvalu",
+		"id": 4096,
+		"tag": "en-TV",
+		"version": "Release 10"
+	},
+	"en-ug": {
+		"language": "English",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "en-UG",
+		"version": "Release 10"
+	},
+	"en-gb": {
+		"language": "English",
+		"location": "United Kingdom",
+		"id": 2057,
+		"tag": "en-GB",
+		"version": "Release A"
+	},
+	"en-us": {
+		"language": "English",
+		"location": "United States",
+		"id": 1033,
+		"tag": "en-US",
+		"version": "Release A"
+	},
+	"en-um": {
+		"language": "English",
+		"location": "US Minor Outlying Islands",
+		"id": 4096,
+		"tag": "en-UM",
+		"version": "Release 10"
+	},
+	"en-vi": {
+		"language": "English",
+		"location": "US Virgin Islands",
+		"id": 4096,
+		"tag": "en-VI",
+		"version": "Release 10"
+	},
+	"en-vu": {
+		"language": "English",
+		"location": "Vanuatu",
+		"id": 4096,
+		"tag": "en-VU",
+		"version": "Release 10"
+	},
+	"en-001": {
+		"language": "English",
+		"location": "World",
+		"id": 4096,
+		"tag": "en-001",
+		"version": "Release 10"
+	},
+	"en-zm": {
+		"language": "English",
+		"location": "Zambia",
+		"id": 4096,
+		"tag": "en-ZM",
+		"version": "Release 10"
+	},
+	"en-zw": {
+		"language": "English",
+		"location": "Zimbabwe",
+		"id": 12297,
+		"tag": "en-ZW",
+		"version": "Release C"
+	},
+	"eo": {
+		"language": "Esperanto",
+		"location": null,
+		"id": 4096,
+		"tag": "eo",
+		"version": "Release 10"
+	},
+	"eo-001": {
+		"language": "Esperanto",
+		"location": "World",
+		"id": 4096,
+		"tag": "eo-001",
+		"version": "Release 10"
+	},
+	"et": {
+		"language": "Estonian",
+		"location": null,
+		"id": 37,
+		"tag": "et",
+		"version": "Release 7"
+	},
+	"et-ee": {
+		"language": "Estonian",
+		"location": "Estonia",
+		"id": 1061,
+		"tag": "et-EE",
+		"version": "Release B"
+	},
+	"ee": {
+		"language": "Ewe",
+		"location": null,
+		"id": 4096,
+		"tag": "ee",
+		"version": "Release 10"
+	},
+	"ee-gh": {
+		"language": "Ewe",
+		"location": "Ghana",
+		"id": 4096,
+		"tag": "ee-GH",
+		"version": "Release 10"
+	},
+	"ee-tg": {
+		"language": "Ewe",
+		"location": "Togo",
+		"id": 4096,
+		"tag": "ee-TG",
+		"version": "Release 10"
+	},
+	"ewo": {
+		"language": "Ewondo",
+		"location": null,
+		"id": 4096,
+		"tag": "ewo",
+		"version": "Release 10"
+	},
+	"ewo-cm": {
+		"language": "Ewondo",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "ewo-CM",
+		"version": "Release 10"
+	},
+	"fo": {
+		"language": "Faroese",
+		"location": null,
+		"id": 56,
+		"tag": "fo",
+		"version": "Release 7"
+	},
+	"fo-dk": {
+		"language": "Faroese",
+		"location": "Denmark",
+		"id": 4096,
+		"tag": "fo-DK",
+		"version": "Release 10.1"
+	},
+	"fo-fo": {
+		"language": "Faroese",
+		"location": "Faroe Islands",
+		"id": 1080,
+		"tag": "fo-FO",
+		"version": "Release B"
+	},
+	"fil": {
+		"language": "Filipino",
+		"location": null,
+		"id": 100,
+		"tag": "fil",
+		"version": "Release 7"
+	},
+	"fil-ph": {
+		"language": "Filipino",
+		"location": "Philippines",
+		"id": 1124,
+		"tag": "fil-PH",
+		"version": "Release E2"
+	},
+	"fi": {
+		"language": "Finnish",
+		"location": null,
+		"id": 11,
+		"tag": "fi",
+		"version": "Release 7"
+	},
+	"fi-fi": {
+		"language": "Finnish",
+		"location": "Finland",
+		"id": 1035,
+		"tag": "fi-FI",
+		"version": "Release A"
+	},
+	"fr": {
+		"language": "French",
+		"location": null,
+		"id": 12,
+		"tag": "fr",
+		"version": "Release 7"
+	},
+	"fr-dz": {
+		"language": "French",
+		"location": "Algeria",
+		"id": 4096,
+		"tag": "fr-DZ",
+		"version": "Release 10"
+	},
+	"fr-be": {
+		"language": "French",
+		"location": "Belgium",
+		"id": 2060,
+		"tag": "fr-BE",
+		"version": "Release A"
+	},
+	"fr-bj": {
+		"language": "French",
+		"location": "Benin",
+		"id": 4096,
+		"tag": "fr-BJ",
+		"version": "Release 10"
+	},
+	"fr-bf": {
+		"language": "French",
+		"location": "Burkina Faso",
+		"id": 4096,
+		"tag": "fr-BF",
+		"version": "Release 10"
+	},
+	"fr-bi": {
+		"language": "French",
+		"location": "Burundi",
+		"id": 4096,
+		"tag": "fr-BI",
+		"version": "Release 10"
+	},
+	"fr-cm": {
+		"language": "French",
+		"location": "Cameroon",
+		"id": 11276,
+		"tag": "fr-CM",
+		"version": "Release 8.1"
+	},
+	"fr-ca": {
+		"language": "French",
+		"location": "Canada",
+		"id": 3084,
+		"tag": "fr-CA",
+		"version": "Release A"
+	},
+	"fr-cf": {
+		"language": "French",
+		"location": "Central African Republic",
+		"id": 4096,
+		"tag": "fr-CF",
+		"version": "Release 10"
+	},
+	"fr-td": {
+		"language": "French",
+		"location": "Chad",
+		"id": 4096,
+		"tag": "fr-TD",
+		"version": "Release 10"
+	},
+	"fr-km": {
+		"language": "French",
+		"location": "Comoros",
+		"id": 4096,
+		"tag": "fr-KM",
+		"version": "Release 10"
+	},
+	"fr-cg": {
+		"language": "French",
+		"location": "Congo",
+		"id": 4096,
+		"tag": "fr-CG",
+		"version": "Release 10"
+	},
+	"fr-cd": {
+		"language": "French",
+		"location": "Congo, DRC",
+		"id": 9228,
+		"tag": "fr-CD",
+		"version": "Release 8.1"
+	},
+	"fr-ci": {
+		"language": "French",
+		"location": "Côte d'Ivoire",
+		"id": 12300,
+		"tag": "fr-CI",
+		"version": "Release 8.1"
+	},
+	"fr-dj": {
+		"language": "French",
+		"location": "Djibouti",
+		"id": 4096,
+		"tag": "fr-DJ",
+		"version": "Release 10"
+	},
+	"fr-gq": {
+		"language": "French",
+		"location": "Equatorial Guinea",
+		"id": 4096,
+		"tag": "fr-GQ",
+		"version": "Release 10"
+	},
+	"fr-fr": {
+		"language": "French",
+		"location": "France",
+		"id": 1036,
+		"tag": "fr-FR",
+		"version": "Release A"
+	},
+	"fr-gf": {
+		"language": "French",
+		"location": "French Guiana",
+		"id": 4096,
+		"tag": "fr-GF",
+		"version": "Release 10"
+	},
+	"fr-pf": {
+		"language": "French",
+		"location": "French Polynesia",
+		"id": 4096,
+		"tag": "fr-PF",
+		"version": "Release 10"
+	},
+	"fr-ga": {
+		"language": "French",
+		"location": "Gabon",
+		"id": 4096,
+		"tag": "fr-GA",
+		"version": "Release 10"
+	},
+	"fr-gp": {
+		"language": "French",
+		"location": "Guadeloupe",
+		"id": 4096,
+		"tag": "fr-GP",
+		"version": "Release 10"
+	},
+	"fr-gn": {
+		"language": "French",
+		"location": "Guinea",
+		"id": 4096,
+		"tag": "fr-GN",
+		"version": "Release 10"
+	},
+	"fr-ht": {
+		"language": "French",
+		"location": "Haiti",
+		"id": 15372,
+		"tag": "fr-HT",
+		"version": "Release 8.1"
+	},
+	"fr-lu": {
+		"language": "French",
+		"location": "Luxembourg",
+		"id": 5132,
+		"tag": "fr-LU",
+		"version": "Release A"
+	},
+	"fr-mg": {
+		"language": "French",
+		"location": "Madagascar",
+		"id": 4096,
+		"tag": "fr-MG",
+		"version": "Release 10"
+	},
+	"fr-ml": {
+		"language": "French",
+		"location": "Mali",
+		"id": 13324,
+		"tag": "fr-ML",
+		"version": "Release 8.1"
+	},
+	"fr-mq": {
+		"language": "French",
+		"location": "Martinique",
+		"id": 4096,
+		"tag": "fr-MQ",
+		"version": "Release 10"
+	},
+	"fr-mr": {
+		"language": "French",
+		"location": "Mauritania",
+		"id": 4096,
+		"tag": "fr-MR",
+		"version": "Release 10"
+	},
+	"fr-mu": {
+		"language": "French",
+		"location": "Mauritius",
+		"id": 4096,
+		"tag": "fr-MU",
+		"version": "Release 10"
+	},
+	"fr-yt": {
+		"language": "French",
+		"location": "Mayotte",
+		"id": 4096,
+		"tag": "fr-YT",
+		"version": "Release 10"
+	},
+	"fr-ma": {
+		"language": "French",
+		"location": "Morocco",
+		"id": 14348,
+		"tag": "fr-MA",
+		"version": "Release 8.1"
+	},
+	"fr-nc": {
+		"language": "French",
+		"location": "New Caledonia",
+		"id": 4096,
+		"tag": "fr-NC",
+		"version": "Release 10"
+	},
+	"fr-ne": {
+		"language": "French",
+		"location": "Niger",
+		"id": 4096,
+		"tag": "fr-NE",
+		"version": "Release 10"
+	},
+	"fr-mc": {
+		"language": "French",
+		"location": "Principality of Monaco",
+		"id": 6156,
+		"tag": "fr-MC",
+		"version": "Release A"
+	},
+	"fr-re": {
+		"language": "French",
+		"location": "Reunion",
+		"id": 8204,
+		"tag": "fr-RE",
+		"version": "Release 8.1"
+	},
+	"fr-rw": {
+		"language": "French",
+		"location": "Rwanda",
+		"id": 4096,
+		"tag": "fr-RW",
+		"version": "Release 10"
+	},
+	"fr-bl": {
+		"language": "French",
+		"location": "Saint Barthélemy",
+		"id": 4096,
+		"tag": "fr-BL",
+		"version": "Release 10"
+	},
+	"fr-mf": {
+		"language": "French",
+		"location": "Saint Martin",
+		"id": 4096,
+		"tag": "fr-MF",
+		"version": "Release 10"
+	},
+	"fr-pm": {
+		"language": "French",
+		"location": "Saint Pierre and Miquelon",
+		"id": 4096,
+		"tag": "fr-PM",
+		"version": "Release 10"
+	},
+	"fr-sn": {
+		"language": "French",
+		"location": "Senegal",
+		"id": 10252,
+		"tag": "fr-SN",
+		"version": "Release 8.1"
+	},
+	"fr-sc": {
+		"language": "French",
+		"location": "Seychelles",
+		"id": 4096,
+		"tag": "fr-SC",
+		"version": "Release 10"
+	},
+	"fr-ch": {
+		"language": "French",
+		"location": "Switzerland",
+		"id": 4108,
+		"tag": "fr-CH",
+		"version": "Release A"
+	},
+	"fr-sy": {
+		"language": "French",
+		"location": "Syria",
+		"id": 4096,
+		"tag": "fr-SY",
+		"version": "Release 10"
+	},
+	"fr-tg": {
+		"language": "French",
+		"location": "Togo",
+		"id": 4096,
+		"tag": "fr-TG",
+		"version": "Release 10"
+	},
+	"fr-tn": {
+		"language": "French",
+		"location": "Tunisia",
+		"id": 4096,
+		"tag": "fr-TN",
+		"version": "Release 10"
+	},
+	"fr-vu": {
+		"language": "French",
+		"location": "Vanuatu",
+		"id": 4096,
+		"tag": "fr-VU",
+		"version": "Release 10"
+	},
+	"fr-wf": {
+		"language": "French",
+		"location": "Wallis and Futuna",
+		"id": 4096,
+		"tag": "fr-WF",
+		"version": "Release 10"
+	},
+	"fy": {
+		"language": "Frisian",
+		"location": null,
+		"id": 98,
+		"tag": "fy",
+		"version": "Release 7"
+	},
+	"fy-nl": {
+		"language": "Frisian",
+		"location": "Netherlands",
+		"id": 1122,
+		"tag": "fy-NL",
+		"version": "Release E2"
+	},
+	"fur": {
+		"language": "Friulian",
+		"location": null,
+		"id": 4096,
+		"tag": "fur",
+		"version": "Release 10"
+	},
+	"fur-it": {
+		"language": "Friulian",
+		"location": "Italy",
+		"id": 4096,
+		"tag": "fur-IT",
+		"version": "Release 10"
+	},
+	"ff": {
+		"language": "Fulah",
+		"location": null,
+		"id": 103,
+		"tag": "ff",
+		"version": "Release 8"
+	},
+	"ff-latn": {
+		"language": "Fulah (Latin)",
+		"location": null,
+		"id": 31847,
+		"tag": "ff-Latn",
+		"version": "Release 8"
+	},
+	"ff-latn-bf": {
+		"language": "Fulah (Latin)",
+		"location": "Burkina Faso",
+		"id": 4096,
+		"tag": "ff-Latn-BF",
+		"version": "Release 10.4"
+	},
+	"ff-cm": {
+		"language": "Fulah",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "ff-CM",
+		"version": "Release 10"
+	},
+	"ff-latn-cm": {
+		"language": "Fulah (Latin)",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "ff-Latn-CM",
+		"version": "Release 10.4"
+	},
+	"ff-latn-gm": {
+		"language": "Fulah (Latin)",
+		"location": "Gambia",
+		"id": 4096,
+		"tag": "ff-Latn-GM",
+		"version": "Release 10.4"
+	},
+	"ff-latn-gh": {
+		"language": "Fulah (Latin)",
+		"location": "Ghana",
+		"id": 4096,
+		"tag": "ff-Latn-GH",
+		"version": "Release 10.4"
+	},
+	"ff-gn": {
+		"language": "Fulah",
+		"location": "Guinea",
+		"id": 4096,
+		"tag": "ff-GN",
+		"version": "Release 10"
+	},
+	"ff-latn-gn": {
+		"language": "Fulah (Latin)",
+		"location": "Guinea",
+		"id": 4096,
+		"tag": "ff-Latn-GN",
+		"version": "Release 10.4"
+	},
+	"ff-latn-gw": {
+		"language": "Fulah (Latin)",
+		"location": "Guinea-Bissau",
+		"id": 4096,
+		"tag": "ff-Latn-GW",
+		"version": "Release 10.4"
+	},
+	"ff-latn-lr": {
+		"language": "Fulah (Latin)",
+		"location": "Liberia",
+		"id": 4096,
+		"tag": "ff-Latn-LR",
+		"version": "Release 10.4"
+	},
+	"ff-mr": {
+		"language": "Fulah",
+		"location": "Mauritania",
+		"id": 4096,
+		"tag": "ff-MR",
+		"version": "Release 10"
+	},
+	"ff-latn-mr": {
+		"language": "Fulah (Latin)",
+		"location": "Mauritania",
+		"id": 4096,
+		"tag": "ff-Latn-MR",
+		"version": "Release 10.4"
+	},
+	"ff-latn-ne": {
+		"language": "Fulah (Latin)",
+		"location": "Niger",
+		"id": 4096,
+		"tag": "ff-Latn-NE",
+		"version": "Release 10.4"
+	},
+	"ff-ng": {
+		"language": "Fulah",
+		"location": "Nigeria",
+		"id": 4096,
+		"tag": "ff-NG",
+		"version": "Release 10"
+	},
+	"ff-latn-ng": {
+		"language": "Fulah (Latin)",
+		"location": "Nigeria",
+		"id": 4096,
+		"tag": "ff-Latn-NG",
+		"version": "Release 10.4"
+	},
+	"ff-latn-sn": {
+		"language": "Fulah",
+		"location": "Senegal",
+		"id": 2151,
+		"tag": "ff-Latn-SN",
+		"version": "Release 8"
+	},
+	"ff-latn-sl": {
+		"language": "Fulah (Latin)",
+		"location": "Sierra Leone",
+		"id": 4096,
+		"tag": "ff-Latn-SL",
+		"version": "Release 10.4"
+	},
+	"gl": {
+		"language": "Galician",
+		"location": null,
+		"id": 86,
+		"tag": "gl",
+		"version": "Release 7"
+	},
+	"gl-es": {
+		"language": "Galician",
+		"location": "Spain",
+		"id": 1110,
+		"tag": "gl-ES",
+		"version": "Release D"
+	},
+	"lg": {
+		"language": "Ganda",
+		"location": null,
+		"id": 4096,
+		"tag": "lg",
+		"version": "Release 10"
+	},
+	"lg-ug": {
+		"language": "Ganda",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "lg-UG",
+		"version": "Release 10"
+	},
+	"ka": {
+		"language": "Georgian",
+		"location": null,
+		"id": 55,
+		"tag": "ka",
+		"version": "Release 7"
+	},
+	"ka-ge": {
+		"language": "Georgian",
+		"location": "Georgia",
+		"id": 1079,
+		"tag": "ka-GE",
+		"version": "Release C"
+	},
+	"de": {
+		"language": "German",
+		"location": null,
+		"id": 7,
+		"tag": "de",
+		"version": "Release 7"
+	},
+	"de-at": {
+		"language": "German",
+		"location": "Austria",
+		"id": 3079,
+		"tag": "de-AT",
+		"version": "Release A"
+	},
+	"de-be": {
+		"language": "German",
+		"location": "Belgium",
+		"id": 4096,
+		"tag": "de-BE",
+		"version": "Release 10"
+	},
+	"de-de": {
+		"language": "German",
+		"location": "Germany",
+		"id": 1031,
+		"tag": "de-DE",
+		"version": "Release A"
+	},
+	"de-it": {
+		"language": "German",
+		"location": "Italy",
+		"id": 4096,
+		"tag": "de-IT",
+		"version": "Release 10.2"
+	},
+	"de-li": {
+		"language": "German",
+		"location": "Liechtenstein",
+		"id": 5127,
+		"tag": "de-LI",
+		"version": "Release B"
+	},
+	"de-lu": {
+		"language": "German",
+		"location": "Luxembourg",
+		"id": 4103,
+		"tag": "de-LU",
+		"version": "Release B"
+	},
+	"de-ch": {
+		"language": "German",
+		"location": "Switzerland",
+		"id": 2055,
+		"tag": "de-CH",
+		"version": "Release A"
+	},
+	"el": {
+		"language": "Greek",
+		"location": null,
+		"id": 8,
+		"tag": "el",
+		"version": "Release 7"
+	},
+	"el-cy": {
+		"language": "Greek",
+		"location": "Cyprus",
+		"id": 4096,
+		"tag": "el-CY",
+		"version": "Release 10"
+	},
+	"el-gr": {
+		"language": "Greek",
+		"location": "Greece",
+		"id": 1032,
+		"tag": "el-GR",
+		"version": "Release A"
+	},
+	"kl": {
+		"language": "Greenlandic",
+		"location": null,
+		"id": 111,
+		"tag": "kl",
+		"version": "Release 7"
+	},
+	"kl-gl": {
+		"language": "Greenlandic",
+		"location": "Greenland",
+		"id": 1135,
+		"tag": "kl-GL",
+		"version": "Release V"
+	},
+	"gn": {
+		"language": "Guarani",
+		"location": null,
+		"id": 116,
+		"tag": "gn",
+		"version": "Release 8.1"
+	},
+	"gn-py": {
+		"language": "Guarani",
+		"location": "Paraguay",
+		"id": 1140,
+		"tag": "gn-PY",
+		"version": "Release 8.1"
+	},
+	"gu": {
+		"language": "Gujarati",
+		"location": null,
+		"id": 71,
+		"tag": "gu",
+		"version": "Release 7"
+	},
+	"gu-in": {
+		"language": "Gujarati",
+		"location": "India",
+		"id": 1095,
+		"tag": "gu-IN",
+		"version": "Release D"
+	},
+	"guz": {
+		"language": "Gusii",
+		"location": null,
+		"id": 4096,
+		"tag": "guz",
+		"version": "Release 10"
+	},
+	"guz-ke": {
+		"language": "Gusii",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "guz-KE",
+		"version": "Release 10"
+	},
+	"ha": {
+		"language": "Hausa (Latin)",
+		"location": null,
+		"id": 104,
+		"tag": "ha",
+		"version": "Release 7"
+	},
+	"ha-latn": {
+		"language": "Hausa (Latin)",
+		"location": null,
+		"id": 31848,
+		"tag": "ha-Latn",
+		"version": "Windows 7"
+	},
+	"ha-latn-gh": {
+		"language": "Hausa (Latin)",
+		"location": "Ghana",
+		"id": 4096,
+		"tag": "ha-Latn-GH",
+		"version": "Release 10"
+	},
+	"ha-latn-ne": {
+		"language": "Hausa (Latin)",
+		"location": "Niger",
+		"id": 4096,
+		"tag": "ha-Latn-NE",
+		"version": "Release 10"
+	},
+	"ha-latn-ng": {
+		"language": "Hausa (Latin)",
+		"location": "Nigeria",
+		"id": 1128,
+		"tag": "ha-Latn-NG",
+		"version": "Release V"
+	},
+	"haw": {
+		"language": "Hawaiian",
+		"location": null,
+		"id": 117,
+		"tag": "haw",
+		"version": "Release 8"
+	},
+	"haw-us": {
+		"language": "Hawaiian",
+		"location": "United States",
+		"id": 1141,
+		"tag": "haw-US",
+		"version": "Release 8"
+	},
+	"he": {
+		"language": "Hebrew",
+		"location": null,
+		"id": 13,
+		"tag": "he",
+		"version": "Release 7"
+	},
+	"he-il": {
+		"language": "Hebrew",
+		"location": "Israel",
+		"id": 1037,
+		"tag": "he-IL",
+		"version": "Release B"
+	},
+	"hi": {
+		"language": "Hindi",
+		"location": null,
+		"id": 57,
+		"tag": "hi",
+		"version": "Release 7"
+	},
+	"hi-in": {
+		"language": "Hindi",
+		"location": "India",
+		"id": 1081,
+		"tag": "hi-IN",
+		"version": "Release C"
+	},
+	"hu": {
+		"language": "Hungarian",
+		"location": null,
+		"id": 14,
+		"tag": "hu",
+		"version": "Release 7"
+	},
+	"hu-hu": {
+		"language": "Hungarian",
+		"location": "Hungary",
+		"id": 1038,
+		"tag": "hu-HU",
+		"version": "Release A"
+	},
+	"is": {
+		"language": "Icelandic",
+		"location": null,
+		"id": 15,
+		"tag": "is",
+		"version": "Release 7"
+	},
+	"is-is": {
+		"language": "Icelandic",
+		"location": "Iceland",
+		"id": 1039,
+		"tag": "is-IS",
+		"version": "Release A"
+	},
+	"ig": {
+		"language": "Igbo",
+		"location": null,
+		"id": 112,
+		"tag": "ig",
+		"version": "Release 7"
+	},
+	"ig-ng": {
+		"language": "Igbo",
+		"location": "Nigeria",
+		"id": 1136,
+		"tag": "ig-NG",
+		"version": "Release V"
+	},
+	"id": {
+		"language": "Indonesian",
+		"location": null,
+		"id": 33,
+		"tag": "id",
+		"version": "Release 7"
+	},
+	"id-id": {
+		"language": "Indonesian",
+		"location": "Indonesia",
+		"id": 1057,
+		"tag": "id-ID",
+		"version": "Release B"
+	},
+	"ia": {
+		"language": "Interlingua",
+		"location": null,
+		"id": 4096,
+		"tag": "ia",
+		"version": "Release 10"
+	},
+	"ia-fr": {
+		"language": "Interlingua",
+		"location": "France",
+		"id": 4096,
+		"tag": "ia-FR",
+		"version": "Release 10"
+	},
+	"ia-001": {
+		"language": "Interlingua",
+		"location": "World",
+		"id": 4096,
+		"tag": "ia-001",
+		"version": "Release 10"
+	},
+	"iu": {
+		"language": "Inuktitut (Latin)",
+		"location": null,
+		"id": 93,
+		"tag": "iu",
+		"version": "Release 7"
+	},
+	"iu-latn": {
+		"language": "Inuktitut (Latin)",
+		"location": null,
+		"id": 31837,
+		"tag": "iu-Latn",
+		"version": "Windows 7"
+	},
+	"iu-latn-ca": {
+		"language": "Inuktitut (Latin)",
+		"location": "Canada",
+		"id": 2141,
+		"tag": "iu-Latn-CA",
+		"version": "Release E2"
+	},
+	"iu-cans": {
+		"language": "Inuktitut (Syllabics)",
+		"location": null,
+		"id": 30813,
+		"tag": "iu-Cans",
+		"version": "Windows 7"
+	},
+	"iu-cans-ca": {
+		"language": "Inuktitut (Syllabics)",
+		"location": "Canada",
+		"id": 1117,
+		"tag": "iu-Cans-CA",
+		"version": "Release V"
+	},
+	"ga": {
+		"language": "Irish",
+		"location": null,
+		"id": 60,
+		"tag": "ga",
+		"version": "Windows 7"
+	},
+	"ga-ie": {
+		"language": "Irish",
+		"location": "Ireland",
+		"id": 2108,
+		"tag": "ga-IE",
+		"version": "Release E2"
+	},
+	"it": {
+		"language": "Italian",
+		"location": null,
+		"id": 16,
+		"tag": "it",
+		"version": "Release 7"
+	},
+	"it-it": {
+		"language": "Italian",
+		"location": "Italy",
+		"id": 1040,
+		"tag": "it-IT",
+		"version": "Release A"
+	},
+	"it-sm": {
+		"language": "Italian",
+		"location": "San Marino",
+		"id": 4096,
+		"tag": "it-SM",
+		"version": "Release 10"
+	},
+	"it-ch": {
+		"language": "Italian",
+		"location": "Switzerland",
+		"id": 2064,
+		"tag": "it-CH",
+		"version": "Release A"
+	},
+	"it-va": {
+		"language": "Italian",
+		"location": "Vatican City",
+		"id": 4096,
+		"tag": "it-VA",
+		"version": "Release 10.3"
+	},
+	"ja": {
+		"language": "Japanese",
+		"location": null,
+		"id": 17,
+		"tag": "ja",
+		"version": "Release 7"
+	},
+	"ja-jp": {
+		"language": "Japanese",
+		"location": "Japan",
+		"id": 1041,
+		"tag": "ja-JP",
+		"version": "Release A"
+	},
+	"jv": {
+		"language": "Javanese",
+		"location": null,
+		"id": 4096,
+		"tag": "jv",
+		"version": "Release 8.1"
+	},
+	"jv-latn": {
+		"language": "Javanese",
+		"location": "Latin",
+		"id": 4096,
+		"tag": "jv-Latn",
+		"version": "Release 8.1"
+	},
+	"jv-latn-id": {
+		"language": "Javanese",
+		"location": "Latin, Indonesia",
+		"id": 4096,
+		"tag": "jv-Latn-ID",
+		"version": "Release 8.1"
+	},
+	"dyo": {
+		"language": "Jola-Fonyi",
+		"location": null,
+		"id": 4096,
+		"tag": "dyo",
+		"version": "Release 10"
+	},
+	"dyo-sn": {
+		"language": "Jola-Fonyi",
+		"location": "Senegal",
+		"id": 4096,
+		"tag": "dyo-SN",
+		"version": "Release 10"
+	},
+	"kea": {
+		"language": "Kabuverdianu",
+		"location": null,
+		"id": 4096,
+		"tag": "kea",
+		"version": "Release 10"
+	},
+	"kea-cv": {
+		"language": "Kabuverdianu",
+		"location": "Cabo Verde",
+		"id": 4096,
+		"tag": "kea-CV",
+		"version": "Release 10"
+	},
+	"kab": {
+		"language": "Kabyle",
+		"location": null,
+		"id": 4096,
+		"tag": "kab",
+		"version": "Release 10"
+	},
+	"kab-dz": {
+		"language": "Kabyle",
+		"location": "Algeria",
+		"id": 4096,
+		"tag": "kab-DZ",
+		"version": "Release 10"
+	},
+	"kkj": {
+		"language": "Kako",
+		"location": null,
+		"id": 4096,
+		"tag": "kkj",
+		"version": "Release 10"
+	},
+	"kkj-cm": {
+		"language": "Kako",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "kkj-CM",
+		"version": "Release 10"
+	},
+	"kln": {
+		"language": "Kalenjin",
+		"location": null,
+		"id": 4096,
+		"tag": "kln",
+		"version": "Release 10"
+	},
+	"kln-ke": {
+		"language": "Kalenjin",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "kln-KE",
+		"version": "Release 10"
+	},
+	"kam": {
+		"language": "Kamba",
+		"location": null,
+		"id": 4096,
+		"tag": "kam",
+		"version": "Release 10"
+	},
+	"kam-ke": {
+		"language": "Kamba",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "kam-KE",
+		"version": "Release 10"
+	},
+	"kn": {
+		"language": "Kannada",
+		"location": null,
+		"id": 75,
+		"tag": "kn",
+		"version": "Release 7"
+	},
+	"kn-in": {
+		"language": "Kannada",
+		"location": "India",
+		"id": 1099,
+		"tag": "kn-IN",
+		"version": "Release D"
+	},
+	"ks": {
+		"language": "Kashmiri",
+		"location": null,
+		"id": 96,
+		"tag": "ks",
+		"version": "Release 10"
+	},
+	"ks-arab": {
+		"language": "Kashmiri",
+		"location": "Perso-Arabic",
+		"id": 1120,
+		"tag": "ks-Arab",
+		"version": "Release 10"
+	},
+	"ks-arab-in": {
+		"language": "Kashmiri",
+		"location": "Perso-Arabic",
+		"id": 4096,
+		"tag": "ks-Arab-IN",
+		"version": "Release 10"
+	},
+	"kk": {
+		"language": "Kazakh",
+		"location": null,
+		"id": 63,
+		"tag": "kk",
+		"version": "Release 7"
+	},
+	"kk-kz": {
+		"language": "Kazakh",
+		"location": "Kazakhstan",
+		"id": 1087,
+		"tag": "kk-KZ",
+		"version": "Release C"
+	},
+	"km": {
+		"language": "Khmer",
+		"location": null,
+		"id": 83,
+		"tag": "km",
+		"version": "Release 7"
+	},
+	"km-kh": {
+		"language": "Khmer",
+		"location": "Cambodia",
+		"id": 1107,
+		"tag": "km-KH",
+		"version": "Release V"
+	},
+	"quc": {
+		"language": "K'iche",
+		"location": null,
+		"id": 134,
+		"tag": "quc",
+		"version": "Release 10"
+	},
+	"quc-latn-gt": {
+		"language": "K'iche",
+		"location": "Guatemala",
+		"id": 1158,
+		"tag": "quc-Latn-GT",
+		"version": "Release 10"
+	},
+	"ki": {
+		"language": "Kikuyu",
+		"location": null,
+		"id": 4096,
+		"tag": "ki",
+		"version": "Release 10"
+	},
+	"ki-ke": {
+		"language": "Kikuyu",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "ki-KE",
+		"version": "Release 10"
+	},
+	"rw": {
+		"language": "Kinyarwanda",
+		"location": null,
+		"id": 135,
+		"tag": "rw",
+		"version": "Release 7"
+	},
+	"rw-rw": {
+		"language": "Kinyarwanda",
+		"location": "Rwanda",
+		"id": 1159,
+		"tag": "rw-RW",
+		"version": "Release V"
+	},
+	"sw": {
+		"language": "Kiswahili",
+		"location": null,
+		"id": 65,
+		"tag": "sw",
+		"version": "Release 7"
+	},
+	"sw-ke": {
+		"language": "Kiswahili",
+		"location": "Kenya",
+		"id": 1089,
+		"tag": "sw-KE",
+		"version": "Release C"
+	},
+	"sw-tz": {
+		"language": "Kiswahili",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "sw-TZ",
+		"version": "Release 10"
+	},
+	"sw-ug": {
+		"language": "Kiswahili",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "sw-UG",
+		"version": "Release 10"
+	},
+	"kok": {
+		"language": "Konkani",
+		"location": null,
+		"id": 87,
+		"tag": "kok",
+		"version": "Release 7"
+	},
+	"kok-in": {
+		"language": "Konkani",
+		"location": "India",
+		"id": 1111,
+		"tag": "kok-IN",
+		"version": "Release C"
+	},
+	"ko": {
+		"language": "Korean",
+		"location": null,
+		"id": 18,
+		"tag": "ko",
+		"version": "Release 7"
+	},
+	"ko-kr": {
+		"language": "Korean",
+		"location": "Korea",
+		"id": 1042,
+		"tag": "ko-KR",
+		"version": "Release A"
+	},
+	"ko-kp": {
+		"language": "Korean",
+		"location": "North Korea",
+		"id": 4096,
+		"tag": "ko-KP",
+		"version": "Release 10.1"
+	},
+	"khq": {
+		"language": "Koyra Chiini",
+		"location": null,
+		"id": 4096,
+		"tag": "khq",
+		"version": "Release 10"
+	},
+	"khq-ml": {
+		"language": "Koyra Chiini",
+		"location": "Mali",
+		"id": 4096,
+		"tag": "khq-ML",
+		"version": "Release 10"
+	},
+	"ses": {
+		"language": "Koyraboro Senni",
+		"location": null,
+		"id": 4096,
+		"tag": "ses",
+		"version": "Release 10"
+	},
+	"ses-ml": {
+		"language": "Koyraboro Senni",
+		"location": "Mali",
+		"id": 4096,
+		"tag": "ses-ML",
+		"version": "Release 10"
+	},
+	"nmg": {
+		"language": "Kwasio",
+		"location": null,
+		"id": 4096,
+		"tag": "nmg",
+		"version": "Release 10"
+	},
+	"nmg-cm": {
+		"language": "Kwasio",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "nmg-CM",
+		"version": "Release 10"
+	},
+	"ky": {
+		"language": "Kyrgyz",
+		"location": null,
+		"id": 64,
+		"tag": "ky",
+		"version": "Release 7"
+	},
+	"ky-kg": {
+		"language": "Kyrgyz",
+		"location": "Kyrgyzstan",
+		"id": 1088,
+		"tag": "ky-KG",
+		"version": "Release D"
+	},
+	"ku-arab-ir": {
+		"language": "Kurdish",
+		"location": "Perso-Arabic, Iran",
+		"id": 4096,
+		"tag": "ku-Arab-IR",
+		"version": "Release 10.1"
+	},
+	"lkt": {
+		"language": "Lakota",
+		"location": null,
+		"id": 4096,
+		"tag": "lkt",
+		"version": "Release 10"
+	},
+	"lkt-us": {
+		"language": "Lakota",
+		"location": "United States",
+		"id": 4096,
+		"tag": "lkt-US",
+		"version": "Release 10"
+	},
+	"lag": {
+		"language": "Langi",
+		"location": null,
+		"id": 4096,
+		"tag": "lag",
+		"version": "Release 10"
+	},
+	"lag-tz": {
+		"language": "Langi",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "lag-TZ",
+		"version": "Release 10"
+	},
+	"lo": {
+		"language": "Lao",
+		"location": null,
+		"id": 84,
+		"tag": "lo",
+		"version": "Release 7"
+	},
+	"lo-la": {
+		"language": "Lao",
+		"location": "Lao P.D.R.",
+		"id": 1108,
+		"tag": "lo-LA",
+		"version": "Release V"
+	},
+	"lv": {
+		"language": "Latvian",
+		"location": null,
+		"id": 38,
+		"tag": "lv",
+		"version": "Release 7"
+	},
+	"lv-lv": {
+		"language": "Latvian",
+		"location": "Latvia",
+		"id": 1062,
+		"tag": "lv-LV",
+		"version": "Release B"
+	},
+	"ln": {
+		"language": "Lingala",
+		"location": null,
+		"id": 4096,
+		"tag": "ln",
+		"version": "Release 10"
+	},
+	"ln-ao": {
+		"language": "Lingala",
+		"location": "Angola",
+		"id": 4096,
+		"tag": "ln-AO",
+		"version": "Release 10"
+	},
+	"ln-cf": {
+		"language": "Lingala",
+		"location": "Central African Republic",
+		"id": 4096,
+		"tag": "ln-CF",
+		"version": "Release 10"
+	},
+	"ln-cg": {
+		"language": "Lingala",
+		"location": "Congo",
+		"id": 4096,
+		"tag": "ln-CG",
+		"version": "Release 10"
+	},
+	"ln-cd": {
+		"language": "Lingala",
+		"location": "Congo DRC",
+		"id": 4096,
+		"tag": "ln-CD",
+		"version": "Release 10"
+	},
+	"lt": {
+		"language": "Lithuanian",
+		"location": null,
+		"id": 39,
+		"tag": "lt",
+		"version": "Release 7"
+	},
+	"lt-lt": {
+		"language": "Lithuanian",
+		"location": "Lithuania",
+		"id": 1063,
+		"tag": "lt-LT",
+		"version": "Release B"
+	},
+	"nds": {
+		"language": "Low German",
+		"location": null,
+		"id": 4096,
+		"tag": "nds",
+		"version": "Release 10.2"
+	},
+	"nds-de": {
+		"language": "Low German ",
+		"location": "Germany",
+		"id": 4096,
+		"tag": "nds-DE",
+		"version": "Release 10.2"
+	},
+	"nds-nl": {
+		"language": "Low German",
+		"location": "Netherlands",
+		"id": 4096,
+		"tag": "nds-NL",
+		"version": "Release 10.2"
+	},
+	"dsb": {
+		"language": "Lower Sorbian",
+		"location": null,
+		"id": 31790,
+		"tag": "dsb",
+		"version": "Windows 7"
+	},
+	"dsb-de": {
+		"language": "Lower Sorbian",
+		"location": "Germany",
+		"id": 2094,
+		"tag": "dsb-DE",
+		"version": "Release V"
+	},
+	"lu": {
+		"language": "Luba-Katanga",
+		"location": null,
+		"id": 4096,
+		"tag": "lu",
+		"version": "Release 10"
+	},
+	"lu-cd": {
+		"language": "Luba-Katanga",
+		"location": "Congo DRC",
+		"id": 4096,
+		"tag": "lu-CD",
+		"version": "Release 10"
+	},
+	"luo": {
+		"language": "Luo",
+		"location": null,
+		"id": 4096,
+		"tag": "luo",
+		"version": "Release 10"
+	},
+	"luo-ke": {
+		"language": "Luo",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "luo-KE",
+		"version": "Release 10"
+	},
+	"lb": {
+		"language": "Luxembourgish",
+		"location": null,
+		"id": 110,
+		"tag": "lb",
+		"version": "Release 7"
+	},
+	"lb-lu": {
+		"language": "Luxembourgish",
+		"location": "Luxembourg",
+		"id": 1134,
+		"tag": "lb-LU",
+		"version": "Release E2"
+	},
+	"luy": {
+		"language": "Luyia",
+		"location": null,
+		"id": 4096,
+		"tag": "luy",
+		"version": "Release 10"
+	},
+	"luy-ke": {
+		"language": "Luyia",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "luy-KE",
+		"version": "Release 10"
+	},
+	"mk": {
+		"language": "Macedonian",
+		"location": null,
+		"id": 47,
+		"tag": "mk",
+		"version": "Release 7"
+	},
+	"mk-mk": {
+		"language": "Macedonian",
+		"location": "North Macedonia ",
+		"id": 1071,
+		"tag": "mk-MK",
+		"version": "Release C"
+	},
+	"jmc": {
+		"language": "Machame",
+		"location": null,
+		"id": 4096,
+		"tag": "jmc",
+		"version": "Release 10"
+	},
+	"jmc-tz": {
+		"language": "Machame",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "jmc-TZ",
+		"version": "Release 10"
+	},
+	"mgh": {
+		"language": "Makhuwa-Meetto",
+		"location": null,
+		"id": 4096,
+		"tag": "mgh",
+		"version": "Release 10"
+	},
+	"mgh-mz": {
+		"language": "Makhuwa-Meetto",
+		"location": "Mozambique",
+		"id": 4096,
+		"tag": "mgh-MZ",
+		"version": "Release 10"
+	},
+	"kde": {
+		"language": "Makonde",
+		"location": null,
+		"id": 4096,
+		"tag": "kde",
+		"version": "Release 10"
+	},
+	"kde-tz": {
+		"language": "Makonde",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "kde-TZ",
+		"version": "Release 10"
+	},
+	"mg": {
+		"language": "Malagasy",
+		"location": null,
+		"id": 4096,
+		"tag": "mg",
+		"version": "Release 8.1"
+	},
+	"mg-mg": {
+		"language": "Malagasy",
+		"location": "Madagascar",
+		"id": 4096,
+		"tag": "mg-MG",
+		"version": "Release 8.1"
+	},
+	"ms": {
+		"language": "Malay",
+		"location": null,
+		"id": 62,
+		"tag": "ms",
+		"version": "Release 7"
+	},
+	"ms-bn": {
+		"language": "Malay",
+		"location": "Brunei Darussalam",
+		"id": 2110,
+		"tag": "ms-BN",
+		"version": "Release C"
+	},
+	"ms-my": {
+		"language": "Malay",
+		"location": "Malaysia",
+		"id": 1086,
+		"tag": "ms-MY",
+		"version": "Release C"
+	},
+	"ml": {
+		"language": "Malayalam",
+		"location": null,
+		"id": 76,
+		"tag": "ml",
+		"version": "Release 7"
+	},
+	"ml-in": {
+		"language": "Malayalam",
+		"location": "India",
+		"id": 1100,
+		"tag": "ml-IN",
+		"version": "Release E1"
+	},
+	"mt": {
+		"language": "Maltese",
+		"location": null,
+		"id": 58,
+		"tag": "mt",
+		"version": "Release 7"
+	},
+	"mt-mt": {
+		"language": "Maltese",
+		"location": "Malta",
+		"id": 1082,
+		"tag": "mt-MT",
+		"version": "Release E1"
+	},
+	"gv": {
+		"language": "Manx",
+		"location": null,
+		"id": 4096,
+		"tag": "gv",
+		"version": "Release 10"
+	},
+	"gv-im": {
+		"language": "Manx",
+		"location": "Isle of Man",
+		"id": 4096,
+		"tag": "gv-IM",
+		"version": "Release 10"
+	},
+	"mi": {
+		"language": "Maori",
+		"location": null,
+		"id": 129,
+		"tag": "mi",
+		"version": "Release 7"
+	},
+	"mi-nz": {
+		"language": "Maori",
+		"location": "New Zealand",
+		"id": 1153,
+		"tag": "mi-NZ",
+		"version": "Release E1"
+	},
+	"arn": {
+		"language": "Mapudungun",
+		"location": null,
+		"id": 122,
+		"tag": "arn",
+		"version": "Release 7"
+	},
+	"arn-cl": {
+		"language": "Mapudungun",
+		"location": "Chile",
+		"id": 1146,
+		"tag": "arn-CL",
+		"version": "Release E2"
+	},
+	"mr": {
+		"language": "Marathi",
+		"location": null,
+		"id": 78,
+		"tag": "mr",
+		"version": "Release 7"
+	},
+	"mr-in": {
+		"language": "Marathi",
+		"location": "India",
+		"id": 1102,
+		"tag": "mr-IN",
+		"version": "Release C"
+	},
+	"mas": {
+		"language": "Masai",
+		"location": null,
+		"id": 4096,
+		"tag": "mas",
+		"version": "Release 10"
+	},
+	"mas-ke": {
+		"language": "Masai",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "mas-KE",
+		"version": "Release 10"
+	},
+	"mas-tz": {
+		"language": "Masai",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "mas-TZ",
+		"version": "Release 10"
+	},
+	"mzn-ir": {
+		"language": "Mazanderani",
+		"location": "Iran",
+		"id": 4096,
+		"tag": "mzn-IR",
+		"version": "Release 10.1"
+	},
+	"mer": {
+		"language": "Meru",
+		"location": null,
+		"id": 4096,
+		"tag": "mer",
+		"version": "Release 10"
+	},
+	"mer-ke": {
+		"language": "Meru",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "mer-KE",
+		"version": "Release 10"
+	},
+	"mgo": {
+		"language": "Meta'",
+		"location": null,
+		"id": 4096,
+		"tag": "mgo",
+		"version": "Release 10"
+	},
+	"mgo-cm": {
+		"language": "Meta'",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "mgo-CM",
+		"version": "Release 10"
+	},
+	"moh": {
+		"language": "Mohawk",
+		"location": null,
+		"id": 124,
+		"tag": "moh",
+		"version": "Release 7"
+	},
+	"moh-ca": {
+		"language": "Mohawk",
+		"location": "Canada",
+		"id": 1148,
+		"tag": "moh-CA",
+		"version": "Release E2"
+	},
+	"mn": {
+		"language": "Mongolian (Cyrillic)",
+		"location": null,
+		"id": 80,
+		"tag": "mn",
+		"version": "Release 7"
+	},
+	"mn-cyrl": {
+		"language": "Mongolian (Cyrillic)",
+		"location": null,
+		"id": 30800,
+		"tag": "mn-Cyrl",
+		"version": "Windows 7"
+	},
+	"mn-mn": {
+		"language": "Mongolian (Cyrillic)",
+		"location": "Mongolia",
+		"id": 1104,
+		"tag": "mn-MN",
+		"version": "Release D"
+	},
+	"mn-mong": {
+		"language": "Mongolian (Traditional ",
+		"location": null,
+		"id": 31824,
+		"tag": "mn-Mong",
+		"version": "Windows 7"
+	},
+	"mn-mong-": {
+		"language": "Mongolian (Traditional ",
+		"location": "Mongolia",
+		"id": 3152,
+		"tag": "mn-Mong-",
+		"version": "Windows 7"
+	},
+	"mfe": {
+		"language": "Morisyen",
+		"location": null,
+		"id": 4096,
+		"tag": "mfe",
+		"version": "Release 10"
+	},
+	"mfe-mu": {
+		"language": "Morisyen",
+		"location": "Mauritius",
+		"id": 4096,
+		"tag": "mfe-MU",
+		"version": "Release 10"
+	},
+	"mua": {
+		"language": "Mundang",
+		"location": null,
+		"id": 4096,
+		"tag": "mua",
+		"version": "Release 10"
+	},
+	"mua-cm": {
+		"language": "Mundang",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "mua-CM",
+		"version": "Release 10"
+	},
+	"nqo": {
+		"language": "N'ko",
+		"location": null,
+		"id": 4096,
+		"tag": "nqo",
+		"version": "Release 8.1"
+	},
+	"nqo-gn": {
+		"language": "N'ko",
+		"location": "Guinea",
+		"id": 4096,
+		"tag": "nqo-GN",
+		"version": "Release 8.1"
+	},
+	"naq": {
+		"language": "Nama",
+		"location": null,
+		"id": 4096,
+		"tag": "naq",
+		"version": "Release 10"
+	},
+	"naq-na": {
+		"language": "Nama",
+		"location": "Namibia",
+		"id": 4096,
+		"tag": "naq-NA",
+		"version": "Release 10"
+	},
+	"ne": {
+		"language": "Nepali",
+		"location": null,
+		"id": 97,
+		"tag": "ne",
+		"version": "Release 7"
+	},
+	"ne-in": {
+		"language": "Nepali",
+		"location": "India",
+		"id": 2145,
+		"tag": "ne-IN",
+		"version": "Release 8.1"
+	},
+	"ne-np": {
+		"language": "Nepali",
+		"location": "Nepal",
+		"id": 1121,
+		"tag": "ne-NP",
+		"version": "Release E2"
+	},
+	"nnh": {
+		"language": "Ngiemboon",
+		"location": null,
+		"id": 4096,
+		"tag": "nnh",
+		"version": "Release 10"
+	},
+	"nnh-cm": {
+		"language": "Ngiemboon",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "nnh-CM",
+		"version": "Release 10"
+	},
+	"jgo": {
+		"language": "Ngomba",
+		"location": null,
+		"id": 4096,
+		"tag": "jgo",
+		"version": "Release 10"
+	},
+	"jgo-cm": {
+		"language": "Ngomba",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "jgo-CM",
+		"version": "Release 10"
+	},
+	"lrc-iq": {
+		"language": "Northern Luri",
+		"location": "Iraq",
+		"id": 4096,
+		"tag": "lrc-IQ",
+		"version": "Release 10.1"
+	},
+	"lrc-ir": {
+		"language": "Northern Luri",
+		"location": "Iran",
+		"id": 4096,
+		"tag": "lrc-IR",
+		"version": "Release 10.1"
+	},
+	"nd": {
+		"language": "North Ndebele",
+		"location": null,
+		"id": 4096,
+		"tag": "nd",
+		"version": "Release 10"
+	},
+	"nd-zw": {
+		"language": "North Ndebele",
+		"location": "Zimbabwe",
+		"id": 4096,
+		"tag": "nd-ZW",
+		"version": "Release 10"
+	},
+	"no": {
+		"language": "Norwegian (Bokmal)",
+		"location": null,
+		"id": 20,
+		"tag": "no",
+		"version": "Release 7"
+	},
+	"nb": {
+		"language": "Norwegian (Bokmal)",
+		"location": null,
+		"id": 31764,
+		"tag": "nb",
+		"version": "Release 7"
+	},
+	"nb-no": {
+		"language": "Norwegian (Bokmal)",
+		"location": "Norway",
+		"id": 1044,
+		"tag": "nb-NO",
+		"version": "Release A"
+	},
+	"nn": {
+		"language": "Norwegian (Nynorsk)",
+		"location": null,
+		"id": 30740,
+		"tag": "nn",
+		"version": "Release 7"
+	},
+	"nn-no": {
+		"language": "Norwegian (Nynorsk)",
+		"location": "Norway",
+		"id": 2068,
+		"tag": "nn-NO",
+		"version": "Release A"
+	},
+	"nb-sj": {
+		"language": "Norwegian Bokmål",
+		"location": "Svalbard and Jan Mayen",
+		"id": 4096,
+		"tag": "nb-SJ",
+		"version": "Release 10"
+	},
+	"nus": {
+		"language": "Nuer",
+		"location": null,
+		"id": 4096,
+		"tag": "nus",
+		"version": "Release 10"
+	},
+	"nus-sd": {
+		"language": "Nuer",
+		"location": "Sudan",
+		"id": 4096,
+		"tag": "nus-SD",
+		"version": "Release 10"
+	},
+	"nus-ss": {
+		"language": "Nuer",
+		"location": "South Sudan",
+		"id": 4096,
+		"tag": "nus-SS",
+		"version": "Release 10.1"
+	},
+	"nyn": {
+		"language": "Nyankole",
+		"location": null,
+		"id": 4096,
+		"tag": "nyn",
+		"version": "Release 10"
+	},
+	"nyn-ug": {
+		"language": "Nyankole",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "nyn-UG",
+		"version": "Release 10"
+	},
+	"oc": {
+		"language": "Occitan",
+		"location": null,
+		"id": 130,
+		"tag": "oc",
+		"version": "Release 7"
+	},
+	"oc-fr": {
+		"language": "Occitan",
+		"location": "France",
+		"id": 1154,
+		"tag": "oc-FR",
+		"version": "Release V"
+	},
+	"or": {
+		"language": "Odia",
+		"location": null,
+		"id": 72,
+		"tag": "or",
+		"version": "Release 7"
+	},
+	"or-in": {
+		"language": "Odia",
+		"location": "India",
+		"id": 1096,
+		"tag": "or-IN",
+		"version": "Release V"
+	},
+	"om": {
+		"language": "Oromo",
+		"location": null,
+		"id": 114,
+		"tag": "om",
+		"version": "Release 8.1"
+	},
+	"om-et": {
+		"language": "Oromo",
+		"location": "Ethiopia",
+		"id": 1138,
+		"tag": "om-ET",
+		"version": "Release 8.1"
+	},
+	"om-ke": {
+		"language": "Oromo",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "om-KE",
+		"version": "Release 10"
+	},
+	"os": {
+		"language": "Ossetian",
+		"location": null,
+		"id": 4096,
+		"tag": "os",
+		"version": "Release 10"
+	},
+	"os-ge": {
+		"language": "Ossetian",
+		"location": "Cyrillic, Georgia",
+		"id": 4096,
+		"tag": "os-GE",
+		"version": "Release 10"
+	},
+	"os-ru": {
+		"language": "Ossetian",
+		"location": "Cyrillic, Russia",
+		"id": 4096,
+		"tag": "os-RU",
+		"version": "Release 10"
+	},
+	"ps": {
+		"language": "Pashto",
+		"location": null,
+		"id": 99,
+		"tag": "ps",
+		"version": "Release 7"
+	},
+	"ps-af": {
+		"language": "Pashto",
+		"location": "Afghanistan",
+		"id": 1123,
+		"tag": "ps-AF",
+		"version": "Release E2"
+	},
+	"fa": {
+		"language": "Persian",
+		"location": null,
+		"id": 41,
+		"tag": "fa",
+		"version": "Release 7"
+	},
+	"fa-af": {
+		"language": "Persian",
+		"location": "Afghanistan",
+		"id": 4096,
+		"tag": "fa-AF",
+		"version": "Release 10"
+	},
+	"fa-ir": {
+		"language": "Persian",
+		"location": "Iran",
+		"id": 1065,
+		"tag": "fa-IR",
+		"version": "Release B"
+	},
+	"pl": {
+		"language": "Polish",
+		"location": null,
+		"id": 21,
+		"tag": "pl",
+		"version": "Release 7"
+	},
+	"pl-pl": {
+		"language": "Polish",
+		"location": "Poland",
+		"id": 1045,
+		"tag": "pl-PL",
+		"version": "Release A"
+	},
+	"pt": {
+		"language": "Portuguese",
+		"location": null,
+		"id": 22,
+		"tag": "pt",
+		"version": "Release 7"
+	},
+	"pt-ao": {
+		"language": "Portuguese",
+		"location": "Angola",
+		"id": 4096,
+		"tag": "pt-AO",
+		"version": "Release 8.1"
+	},
+	"pt-br": {
+		"language": "Portuguese",
+		"location": "Brazil",
+		"id": 1046,
+		"tag": "pt-BR",
+		"version": "ReleaseA"
+	},
+	"pt-cv": {
+		"language": "Portuguese",
+		"location": "Cabo Verde",
+		"id": 4096,
+		"tag": "pt-CV",
+		"version": "Release 10"
+	},
+	"pt-gq": {
+		"language": "Portuguese",
+		"location": "Equatorial Guinea",
+		"id": 4096,
+		"tag": "pt-GQ",
+		"version": "Release 10.2"
+	},
+	"pt-gw": {
+		"language": "Portuguese",
+		"location": "Guinea-Bissau",
+		"id": 4096,
+		"tag": "pt-GW",
+		"version": "Release 10"
+	},
+	"pt-lu": {
+		"language": "Portuguese",
+		"location": "Luxembourg",
+		"id": 4096,
+		"tag": "pt-LU",
+		"version": "Release 10.2"
+	},
+	"pt-mo": {
+		"language": "Portuguese",
+		"location": "Macao SAR",
+		"id": 4096,
+		"tag": "pt-MO",
+		"version": "Release 10"
+	},
+	"pt-mz": {
+		"language": "Portuguese",
+		"location": "Mozambique",
+		"id": 4096,
+		"tag": "pt-MZ",
+		"version": "Release 10"
+	},
+	"pt-pt": {
+		"language": "Portuguese",
+		"location": "Portugal",
+		"id": 2070,
+		"tag": "pt-PT",
+		"version": "Release A"
+	},
+	"pt-st": {
+		"language": "Portuguese",
+		"location": "São Tomé and Príncipe",
+		"id": 4096,
+		"tag": "pt-ST",
+		"version": "Release 10"
+	},
+	"pt-ch": {
+		"language": "Portuguese",
+		"location": "Switzerland",
+		"id": 4096,
+		"tag": "pt-CH",
+		"version": "Release 10.2"
+	},
+	"pt-tl": {
+		"language": "Portuguese",
+		"location": "Timor-Leste",
+		"id": 4096,
+		"tag": "pt-TL",
+		"version": "Release 10"
+	},
+	"prg-001": {
+		"language": "Prussian",
+		"location": null,
+		"id": 4096,
+		"tag": "prg-001",
+		"version": "Release 10.1"
+	},
+	"qps-ploca": {
+		"language": "Pseudo Language",
+		"location": "Pseudo locale for east Asian/complex ",
+		"id": 1534,
+		"tag": "qps-ploca",
+		"version": "Release 7"
+	},
+	"qps-ploc": {
+		"language": "Pseudo Language",
+		"location": "Pseudo locale used for localization ",
+		"id": 1281,
+		"tag": "qps-ploc",
+		"version": "Release 7"
+	},
+	"qps-plocm": {
+		"language": "Pseudo Language",
+		"location": "Pseudo locale used for localization ",
+		"id": 2559,
+		"tag": "qps-plocm",
+		"version": "Release 7"
+	},
+	"pa": {
+		"language": "Punjabi",
+		"location": null,
+		"id": 70,
+		"tag": "pa",
+		"version": "Release 7"
+	},
+	"pa-arab": {
+		"language": "Punjabi",
+		"location": null,
+		"id": 31814,
+		"tag": "pa-Arab",
+		"version": "Release 8"
+	},
+	"pa-in": {
+		"language": "Punjabi",
+		"location": "India",
+		"id": 1094,
+		"tag": "pa-IN",
+		"version": "Release D"
+	},
+	"pa-arab-pk": {
+		"language": "Punjabi",
+		"location": "Islamic Republic of Pakistan",
+		"id": 2118,
+		"tag": "pa-Arab-PK",
+		"version": "Release 8"
+	},
+	"quz": {
+		"language": "Quechua",
+		"location": null,
+		"id": 107,
+		"tag": "quz",
+		"version": "Release 7"
+	},
+	"quz-bo": {
+		"language": "Quechua",
+		"location": "Bolivia",
+		"id": 1131,
+		"tag": "quz-BO",
+		"version": "Release E1"
+	},
+	"quz-ec": {
+		"language": "Quechua",
+		"location": "Ecuador",
+		"id": 2155,
+		"tag": "quz-EC",
+		"version": "Release E1"
+	},
+	"quz-pe": {
+		"language": "Quechua",
+		"location": "Peru",
+		"id": 3179,
+		"tag": "quz-PE",
+		"version": "Release E1"
+	},
+	"ksh": {
+		"language": "Ripuarian",
+		"location": null,
+		"id": 4096,
+		"tag": "ksh",
+		"version": "Release 10"
+	},
+	"ksh-de": {
+		"language": "Ripuarian",
+		"location": "Germany",
+		"id": 4096,
+		"tag": "ksh-DE",
+		"version": "Release 10"
+	},
+	"ro": {
+		"language": "Romanian",
+		"location": null,
+		"id": 24,
+		"tag": "ro",
+		"version": "Release 7"
+	},
+	"ro-md": {
+		"language": "Romanian",
+		"location": "Moldova",
+		"id": 2072,
+		"tag": "ro-MD",
+		"version": "Release 8.1"
+	},
+	"ro-ro": {
+		"language": "Romanian",
+		"location": "Romania",
+		"id": 1048,
+		"tag": "ro-RO",
+		"version": "Release A"
+	},
+	"rm": {
+		"language": "Romansh",
+		"location": null,
+		"id": 23,
+		"tag": "rm",
+		"version": "Release 7"
+	},
+	"rm-ch": {
+		"language": "Romansh",
+		"location": "Switzerland",
+		"id": 1047,
+		"tag": "rm-CH",
+		"version": "Release E2"
+	},
+	"rof": {
+		"language": "Rombo",
+		"location": null,
+		"id": 4096,
+		"tag": "rof",
+		"version": "Release 10"
+	},
+	"rof-tz": {
+		"language": "Rombo",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "rof-TZ",
+		"version": "Release 10"
+	},
+	"rn": {
+		"language": "Rundi",
+		"location": null,
+		"id": 4096,
+		"tag": "rn",
+		"version": "Release 10"
+	},
+	"rn-bi": {
+		"language": "Rundi",
+		"location": "Burundi",
+		"id": 4096,
+		"tag": "rn-BI",
+		"version": "Release 10"
+	},
+	"ru": {
+		"language": "Russian",
+		"location": null,
+		"id": 25,
+		"tag": "ru",
+		"version": "Release 7"
+	},
+	"ru-by": {
+		"language": "Russian",
+		"location": "Belarus",
+		"id": 4096,
+		"tag": "ru-BY",
+		"version": "Release 10"
+	},
+	"ru-kz": {
+		"language": "Russian",
+		"location": "Kazakhstan",
+		"id": 4096,
+		"tag": "ru-KZ",
+		"version": "Release 10"
+	},
+	"ru-kg": {
+		"language": "Russian",
+		"location": "Kyrgyzstan",
+		"id": 4096,
+		"tag": "ru-KG",
+		"version": "Release 10"
+	},
+	"ru-md": {
+		"language": "Russian",
+		"location": "Moldova",
+		"id": 2073,
+		"tag": "ru-MD",
+		"version": "Release 10"
+	},
+	"ru-ru": {
+		"language": "Russian",
+		"location": "Russia",
+		"id": 1049,
+		"tag": "ru-RU",
+		"version": "Release A"
+	},
+	"ru-ua": {
+		"language": "Russian",
+		"location": "Ukraine",
+		"id": 4096,
+		"tag": "ru-UA",
+		"version": "Release 10"
+	},
+	"rwk": {
+		"language": "Rwa",
+		"location": null,
+		"id": 4096,
+		"tag": "rwk",
+		"version": "Release 10"
+	},
+	"rwk-tz": {
+		"language": "Rwa",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "rwk-TZ",
+		"version": "Release 10"
+	},
+	"ssy": {
+		"language": "Saho",
+		"location": null,
+		"id": 4096,
+		"tag": "ssy",
+		"version": "Release 10"
+	},
+	"ssy-er": {
+		"language": "Saho",
+		"location": "Eritrea",
+		"id": 4096,
+		"tag": "ssy-ER",
+		"version": "Release 10"
+	},
+	"sah": {
+		"language": "Sakha",
+		"location": null,
+		"id": 133,
+		"tag": "sah",
+		"version": "Release 7"
+	},
+	"sah-ru": {
+		"language": "Sakha",
+		"location": "Russia",
+		"id": 1157,
+		"tag": "sah-RU",
+		"version": "Release V"
+	},
+	"saq": {
+		"language": "Samburu",
+		"location": null,
+		"id": 4096,
+		"tag": "saq",
+		"version": "Release 10"
+	},
+	"saq-ke": {
+		"language": "Samburu",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "saq-KE",
+		"version": "Release 10"
+	},
+	"smn": {
+		"language": "Sami (Inari)",
+		"location": null,
+		"id": 28731,
+		"tag": "smn",
+		"version": "Windows 7"
+	},
+	"smn-fi": {
+		"language": "Sami (Inari)",
+		"location": "Finland",
+		"id": 9275,
+		"tag": "smn-FI",
+		"version": "Release E1"
+	},
+	"smj": {
+		"language": "Sami (Lule)",
+		"location": null,
+		"id": 31803,
+		"tag": "smj",
+		"version": "Windows 7"
+	},
+	"smj-no": {
+		"language": "Sami (Lule)",
+		"location": "Norway",
+		"id": 4155,
+		"tag": "smj-NO",
+		"version": "Release E1"
+	},
+	"smj-se": {
+		"language": "Sami (Lule)",
+		"location": "Sweden",
+		"id": 5179,
+		"tag": "smj-SE",
+		"version": "Release E1"
+	},
+	"se": {
+		"language": "Sami (Northern)",
+		"location": null,
+		"id": 59,
+		"tag": "se",
+		"version": "Release 7"
+	},
+	"se-fi": {
+		"language": "Sami (Northern)",
+		"location": "Finland",
+		"id": 3131,
+		"tag": "se-FI",
+		"version": "Release E1"
+	},
+	"se-no": {
+		"language": "Sami (Northern)",
+		"location": "Norway",
+		"id": 1083,
+		"tag": "se-NO",
+		"version": "Release E1"
+	},
+	"se-se": {
+		"language": "Sami (Northern)",
+		"location": "Sweden",
+		"id": 2107,
+		"tag": "se-SE",
+		"version": "Release E1"
+	},
+	"sms": {
+		"language": "Sami (Skolt)",
+		"location": null,
+		"id": 29755,
+		"tag": "sms",
+		"version": "Windows 7"
+	},
+	"sms-fi": {
+		"language": "Sami (Skolt)",
+		"location": "Finland",
+		"id": 8251,
+		"tag": "sms-FI",
+		"version": "Release E1"
+	},
+	"sma": {
+		"language": "Sami (Southern)",
+		"location": null,
+		"id": 30779,
+		"tag": "sma",
+		"version": "Windows 7"
+	},
+	"sma-no": {
+		"language": "Sami (Southern)",
+		"location": "Norway",
+		"id": 6203,
+		"tag": "sma-NO",
+		"version": "Release E1"
+	},
+	"sma-se": {
+		"language": "Sami (Southern)",
+		"location": "Sweden",
+		"id": 7227,
+		"tag": "sma-SE",
+		"version": "Release E1"
+	},
+	"sg": {
+		"language": "Sango",
+		"location": null,
+		"id": 4096,
+		"tag": "sg",
+		"version": "Release 10"
+	},
+	"sg-cf": {
+		"language": "Sango",
+		"location": "Central African Republic",
+		"id": 4096,
+		"tag": "sg-CF",
+		"version": "Release 10"
+	},
+	"sbp": {
+		"language": "Sangu",
+		"location": null,
+		"id": 4096,
+		"tag": "sbp",
+		"version": "Release 10"
+	},
+	"sbp-tz": {
+		"language": "Sangu",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "sbp-TZ",
+		"version": "Release 10"
+	},
+	"sa": {
+		"language": "Sanskrit",
+		"location": null,
+		"id": 79,
+		"tag": "sa",
+		"version": "Release 7"
+	},
+	"sa-in": {
+		"language": "Sanskrit",
+		"location": "India",
+		"id": 1103,
+		"tag": "sa-IN",
+		"version": "Release C"
+	},
+	"gd": {
+		"language": "Scottish Gaelic",
+		"location": null,
+		"id": 145,
+		"tag": "gd",
+		"version": "Windows 7"
+	},
+	"gd-gb": {
+		"language": "Scottish Gaelic",
+		"location": "United Kingdom",
+		"id": 1169,
+		"tag": "gd-GB",
+		"version": "Release 7"
+	},
+	"seh": {
+		"language": "Sena",
+		"location": null,
+		"id": 4096,
+		"tag": "seh",
+		"version": "Release 10"
+	},
+	"seh-mz": {
+		"language": "Sena",
+		"location": "Mozambique",
+		"id": 4096,
+		"tag": "seh-MZ",
+		"version": "Release 10"
+	},
+	"sr-cyrl": {
+		"language": "Serbian (Cyrillic)",
+		"location": null,
+		"id": 27674,
+		"tag": "sr-Cyrl",
+		"version": "Windows 7"
+	},
+	"sr-cyrl-ba": {
+		"language": "Serbian (Cyrillic)",
+		"location": "Bosnia and Herzegovina",
+		"id": 7194,
+		"tag": "sr-Cyrl-BA",
+		"version": "Release E1"
+	},
+	"sr-cyrl-me": {
+		"language": "Serbian (Cyrillic)",
+		"location": "Montenegro",
+		"id": 12314,
+		"tag": "sr-Cyrl-ME",
+		"version": "Release 7"
+	},
+	"sr-cyrl-rs": {
+		"language": "Serbian (Cyrillic)",
+		"location": "Serbia",
+		"id": 10266,
+		"tag": "sr-Cyrl-RS",
+		"version": "Release 7"
+	},
+	"sr-cyrl-cs": {
+		"language": "Serbian (Cyrillic)",
+		"location": "Serbia and Montenegro (Former)",
+		"id": 3098,
+		"tag": "sr-Cyrl-CS",
+		"version": "Release B"
+	},
+	"sr-latn": {
+		"language": "Serbian (Latin)",
+		"location": null,
+		"id": 28698,
+		"tag": "sr-Latn",
+		"version": "Windows 7"
+	},
+	"sr": {
+		"language": "Serbian (Latin)",
+		"location": null,
+		"id": 31770,
+		"tag": "sr",
+		"version": "Release 7"
+	},
+	"sr-latn-ba": {
+		"language": "Serbian (Latin)",
+		"location": "Bosnia and Herzegovina",
+		"id": 6170,
+		"tag": "sr-Latn-BA",
+		"version": "Release E1"
+	},
+	"sr-latn-me": {
+		"language": "Serbian (Latin)",
+		"location": "Montenegro",
+		"id": 11290,
+		"tag": "sr-Latn-ME",
+		"version": "Release 7"
+	},
+	"sr-latn-rs": {
+		"language": "Serbian (Latin)",
+		"location": "Serbia",
+		"id": 9242,
+		"tag": "sr-Latn-RS",
+		"version": "Release 7"
+	},
+	"sr-latn-cs": {
+		"language": "Serbian (Latin)",
+		"location": "Serbia and Montenegro (Former)",
+		"id": 2074,
+		"tag": "sr-Latn-CS",
+		"version": "Release B"
+	},
+	"nso": {
+		"language": "Sesotho sa Leboa",
+		"location": null,
+		"id": 108,
+		"tag": "nso",
+		"version": "Release 7"
+	},
+	"nso-za": {
+		"language": "Sesotho sa Leboa",
+		"location": "South Africa",
+		"id": 1132,
+		"tag": "nso-ZA",
+		"version": "Release E1"
+	},
+	"tn": {
+		"language": "Setswana",
+		"location": null,
+		"id": 50,
+		"tag": "tn",
+		"version": "Release 7"
+	},
+	"tn-bw": {
+		"language": "Setswana",
+		"location": "Botswana",
+		"id": 2098,
+		"tag": "tn-BW",
+		"version": "Release 8"
+	},
+	"tn-za": {
+		"language": "Setswana",
+		"location": "South Africa",
+		"id": 1074,
+		"tag": "tn-ZA",
+		"version": "Release E1"
+	},
+	"ksb": {
+		"language": "Shambala",
+		"location": null,
+		"id": 4096,
+		"tag": "ksb",
+		"version": "Release 10"
+	},
+	"ksb-tz": {
+		"language": "Shambala",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "ksb-TZ",
+		"version": "Release 10"
+	},
+	"sn": {
+		"language": "Shona",
+		"location": null,
+		"id": 4096,
+		"tag": "sn",
+		"version": "Release 8.1"
+	},
+	"sn-latn": {
+		"language": "Shona",
+		"location": "Latin",
+		"id": 4096,
+		"tag": "sn-Latn",
+		"version": "Release 8.1"
+	},
+	"sn-latn-zw": {
+		"language": "Shona",
+		"location": "Zimbabwe",
+		"id": 4096,
+		"tag": "sn-Latn-ZW",
+		"version": "Release 8.1"
+	},
+	"sd": {
+		"language": "Sindhi",
+		"location": null,
+		"id": 89,
+		"tag": "sd",
+		"version": "Release 8"
+	},
+	"sd-arab": {
+		"language": "Sindhi",
+		"location": null,
+		"id": 31833,
+		"tag": "sd-Arab",
+		"version": "Release 8"
+	},
+	"sd-arab-pk": {
+		"language": "Sindhi",
+		"location": "Islamic Republic of Pakistan",
+		"id": 2137,
+		"tag": "sd-Arab-PK",
+		"version": "Release 8"
+	},
+	"si": {
+		"language": "Sinhala",
+		"location": null,
+		"id": 91,
+		"tag": "si",
+		"version": "Release 7"
+	},
+	"si-lk": {
+		"language": "Sinhala",
+		"location": "Sri Lanka",
+		"id": 1115,
+		"tag": "si-LK",
+		"version": "Release V"
+	},
+	"sk": {
+		"language": "Slovak",
+		"location": null,
+		"id": 27,
+		"tag": "sk",
+		"version": "Release 7"
+	},
+	"sk-sk": {
+		"language": "Slovak",
+		"location": "Slovakia",
+		"id": 1051,
+		"tag": "sk-SK",
+		"version": "Release A"
+	},
+	"sl": {
+		"language": "Slovenian",
+		"location": null,
+		"id": 36,
+		"tag": "sl",
+		"version": "Release 7"
+	},
+	"sl-si": {
+		"language": "Slovenian",
+		"location": "Slovenia",
+		"id": 1060,
+		"tag": "sl-SI",
+		"version": "Release A"
+	},
+	"xog": {
+		"language": "Soga",
+		"location": null,
+		"id": 4096,
+		"tag": "xog",
+		"version": "Release 10"
+	},
+	"xog-ug": {
+		"language": "Soga",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "xog-UG",
+		"version": "Release 10"
+	},
+	"so": {
+		"language": "Somali",
+		"location": null,
+		"id": 119,
+		"tag": "so",
+		"version": "Release 8.1"
+	},
+	"so-dj": {
+		"language": "Somali",
+		"location": "Djibouti",
+		"id": 4096,
+		"tag": "so-DJ",
+		"version": "Release 10"
+	},
+	"so-et": {
+		"language": "Somali",
+		"location": "Ethiopia",
+		"id": 4096,
+		"tag": "so-ET",
+		"version": "Release 10"
+	},
+	"so-ke": {
+		"language": "Somali",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "so-KE",
+		"version": "Release 10"
+	},
+	"so-so": {
+		"language": "Somali",
+		"location": "Somalia",
+		"id": 1143,
+		"tag": "so-SO",
+		"version": "Release 8.1"
+	},
+	"st": {
+		"language": "Sotho",
+		"location": null,
+		"id": 48,
+		"tag": "st",
+		"version": "Release 8.1"
+	},
+	"st-za": {
+		"language": "Sotho",
+		"location": "South Africa",
+		"id": 1072,
+		"tag": "st-ZA",
+		"version": "Release 8.1"
+	},
+	"nr": {
+		"language": "South Ndebele",
+		"location": null,
+		"id": 4096,
+		"tag": "nr",
+		"version": "Release 10"
+	},
+	"nr-za": {
+		"language": "South Ndebele",
+		"location": "South Africa",
+		"id": 4096,
+		"tag": "nr-ZA",
+		"version": "Release 10"
+	},
+	"st-ls": {
+		"language": "Southern Sotho",
+		"location": "Lesotho",
+		"id": 4096,
+		"tag": "st-LS",
+		"version": "Release 10"
+	},
+	"es": {
+		"language": "Spanish",
+		"location": null,
+		"id": 10,
+		"tag": "es",
+		"version": "Release 7"
+	},
+	"es-ar": {
+		"language": "Spanish",
+		"location": "Argentina",
+		"id": 11274,
+		"tag": "es-AR",
+		"version": "Release B"
+	},
+	"es-bz": {
+		"language": "Spanish",
+		"location": "Belize",
+		"id": 4096,
+		"tag": "es-BZ",
+		"version": "Release 10.3"
+	},
+	"es-ve": {
+		"language": "Spanish",
+		"location": "Bolivarian Republic of Venezuela",
+		"id": 8202,
+		"tag": "es-VE",
+		"version": "Release B"
+	},
+	"es-bo": {
+		"language": "Spanish",
+		"location": "Bolivia",
+		"id": 16394,
+		"tag": "es-BO",
+		"version": "Release B"
+	},
+	"es-br": {
+		"language": "Spanish",
+		"location": "Brazil",
+		"id": 4096,
+		"tag": "es-BR",
+		"version": "Release 10.2"
+	},
+	"es-cl": {
+		"language": "Spanish",
+		"location": "Chile",
+		"id": 13322,
+		"tag": "es-CL",
+		"version": "Release B"
+	},
+	"es-co": {
+		"language": "Spanish",
+		"location": "Colombia",
+		"id": 9226,
+		"tag": "es-CO",
+		"version": "Release B"
+	},
+	"es-cr": {
+		"language": "Spanish",
+		"location": "Costa Rica",
+		"id": 5130,
+		"tag": "es-CR",
+		"version": "Release B"
+	},
+	"es-cu": {
+		"language": "Spanish",
+		"location": "Cuba",
+		"id": 23562,
+		"tag": "es-CU",
+		"version": "Release 10"
+	},
+	"es-do": {
+		"language": "Spanish",
+		"location": "Dominican Republic",
+		"id": 7178,
+		"tag": "es-DO",
+		"version": "Release B"
+	},
+	"es-ec": {
+		"language": "Spanish",
+		"location": "Ecuador",
+		"id": 12298,
+		"tag": "es-EC",
+		"version": "Release B"
+	},
+	"es-sv": {
+		"language": "Spanish",
+		"location": "El Salvador",
+		"id": 17418,
+		"tag": "es-SV",
+		"version": "Release B"
+	},
+	"es-gq": {
+		"language": "Spanish",
+		"location": "Equatorial Guinea",
+		"id": 4096,
+		"tag": "es-GQ",
+		"version": "Release 10"
+	},
+	"es-gt": {
+		"language": "Spanish",
+		"location": "Guatemala",
+		"id": 4106,
+		"tag": "es-GT",
+		"version": "Release B"
+	},
+	"es-hn": {
+		"language": "Spanish",
+		"location": "Honduras",
+		"id": 18442,
+		"tag": "es-HN",
+		"version": "Release B"
+	},
+	"es-419": {
+		"language": "Spanish",
+		"location": "Latin America",
+		"id": 22538,
+		"tag": "es-419",
+		"version": "Release 8.1"
+	},
+	"es-mx": {
+		"language": "Spanish",
+		"location": "Mexico",
+		"id": 2058,
+		"tag": "es-MX",
+		"version": "Release A"
+	},
+	"es-ni": {
+		"language": "Spanish",
+		"location": "Nicaragua",
+		"id": 19466,
+		"tag": "es-NI",
+		"version": "Release B"
+	},
+	"es-pa": {
+		"language": "Spanish",
+		"location": "Panama",
+		"id": 6154,
+		"tag": "es-PA",
+		"version": "Release B"
+	},
+	"es-py": {
+		"language": "Spanish",
+		"location": "Paraguay",
+		"id": 15370,
+		"tag": "es-PY",
+		"version": "Release B"
+	},
+	"es-pe": {
+		"language": "Spanish",
+		"location": "Peru",
+		"id": 10250,
+		"tag": "es-PE",
+		"version": "Release B"
+	},
+	"es-ph": {
+		"language": "Spanish",
+		"location": "Philippines",
+		"id": 4096,
+		"tag": "es-PH",
+		"version": "Release 10"
+	},
+	"es-pr": {
+		"language": "Spanish",
+		"location": "Puerto Rico",
+		"id": 20490,
+		"tag": "es-PR",
+		"version": "Release B"
+	},
+	"es-es_tradnl": {
+		"language": "Spanish",
+		"location": "Spain",
+		"id": 1034,
+		"tag": "es-ES_tradnl",
+		"version": "Release A"
+	},
+	"es-es": {
+		"language": "Spanish",
+		"location": "Spain",
+		"id": 3082,
+		"tag": "es-ES",
+		"version": "Release A"
+	},
+	"es-us": {
+		"language": "Spanish",
+		"location": "United States",
+		"id": 21514,
+		"tag": "es-US",
+		"version": "Release V"
+	},
+	"es-uy": {
+		"language": "Spanish",
+		"location": "Uruguay",
+		"id": 14346,
+		"tag": "es-UY",
+		"version": "Release B"
+	},
+	"zgh": {
+		"language": "Standard Moroccan ",
+		"location": null,
+		"id": 4096,
+		"tag": "zgh",
+		"version": "Release 8.1"
+	},
+	"zgh-tfng-ma": {
+		"language": "Standard Moroccan ",
+		"location": "Morocco",
+		"id": 4096,
+		"tag": "zgh-Tfng-MA",
+		"version": "Release 8.1"
+	},
+	"zgh-tfng": {
+		"language": "Standard Moroccan ",
+		"location": "Tifinagh",
+		"id": 4096,
+		"tag": "zgh-Tfng",
+		"version": "Release 8.1"
+	},
+	"ss": {
+		"language": "Swati",
+		"location": null,
+		"id": 4096,
+		"tag": "ss",
+		"version": "Release 10"
+	},
+	"ss-za": {
+		"language": "Swati",
+		"location": "South Africa",
+		"id": 4096,
+		"tag": "ss-ZA",
+		"version": "Release 10"
+	},
+	"ss-sz": {
+		"language": "Swati",
+		"location": "Swaziland",
+		"id": 4096,
+		"tag": "ss-SZ",
+		"version": "Release 10"
+	},
+	"sv": {
+		"language": "Swedish",
+		"location": null,
+		"id": 29,
+		"tag": "sv",
+		"version": "Release 7"
+	},
+	"sv-ax": {
+		"language": "Swedish",
+		"location": "Åland Islands",
+		"id": 4096,
+		"tag": "sv-AX",
+		"version": "Release 10"
+	},
+	"sv-fi": {
+		"language": "Swedish",
+		"location": "Finland",
+		"id": 2077,
+		"tag": "sv-FI",
+		"version": "ReleaseB"
+	},
+	"sv-se": {
+		"language": "Swedish",
+		"location": "Sweden",
+		"id": 1053,
+		"tag": "sv-SE",
+		"version": "Release A"
+	},
+	"syr": {
+		"language": "Syriac",
+		"location": null,
+		"id": 90,
+		"tag": "syr",
+		"version": "Release 7"
+	},
+	"syr-sy": {
+		"language": "Syriac",
+		"location": "Syria",
+		"id": 1114,
+		"tag": "syr-SY",
+		"version": "Release D"
+	},
+	"shi": {
+		"language": "Tachelhit",
+		"location": null,
+		"id": 4096,
+		"tag": "shi",
+		"version": "Release 10"
+	},
+	"shi-tfng": {
+		"language": "Tachelhit",
+		"location": "Tifinagh",
+		"id": 4096,
+		"tag": "shi-Tfng",
+		"version": "Release 10"
+	},
+	"shi-tfng-ma": {
+		"language": "Tachelhit",
+		"location": "Tifinagh, Morocco",
+		"id": 4096,
+		"tag": "shi-Tfng-MA",
+		"version": "Release 10"
+	},
+	"shi-latn": {
+		"language": "Tachelhit (Latin)",
+		"location": null,
+		"id": 4096,
+		"tag": "shi-Latn",
+		"version": "Release 10"
+	},
+	"shi-latn-ma": {
+		"language": "Tachelhit (Latin)",
+		"location": "Morocco",
+		"id": 4096,
+		"tag": "shi-Latn-MA",
+		"version": "Release 10"
+	},
+	"dav": {
+		"language": "Taita",
+		"location": null,
+		"id": 4096,
+		"tag": "dav",
+		"version": "Release 10"
+	},
+	"dav-ke": {
+		"language": "Taita",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "dav-KE",
+		"version": "Release 10"
+	},
+	"tg": {
+		"language": "Tajik (Cyrillic)",
+		"location": null,
+		"id": 40,
+		"tag": "tg",
+		"version": "Release 7"
+	},
+	"tg-cyrl": {
+		"language": "Tajik (Cyrillic)",
+		"location": null,
+		"id": 31784,
+		"tag": "tg-Cyrl",
+		"version": "Windows 7"
+	},
+	"tg-cyrl-tj": {
+		"language": "Tajik (Cyrillic)",
+		"location": "Tajikistan",
+		"id": 1064,
+		"tag": "tg-Cyrl-TJ",
+		"version": "Release V"
+	},
+	"tzm": {
+		"language": "Tamazight (Latin)",
+		"location": null,
+		"id": 95,
+		"tag": "tzm",
+		"version": "Release 7"
+	},
+	"tzm-latn": {
+		"language": "Tamazight (Latin)",
+		"location": null,
+		"id": 31839,
+		"tag": "tzm-Latn",
+		"version": "Windows 7"
+	},
+	"tzm-latn-dz": {
+		"language": "Tamazight (Latin)",
+		"location": "Algeria",
+		"id": 2143,
+		"tag": "tzm-Latn-DZ",
+		"version": "Release V"
+	},
+	"ta": {
+		"language": "Tamil",
+		"location": null,
+		"id": 73,
+		"tag": "ta",
+		"version": "Release 7"
+	},
+	"ta-in": {
+		"language": "Tamil",
+		"location": "India",
+		"id": 1097,
+		"tag": "ta-IN",
+		"version": "Release C"
+	},
+	"ta-my": {
+		"language": "Tamil",
+		"location": "Malaysia",
+		"id": 4096,
+		"tag": "ta-MY",
+		"version": "Release 10"
+	},
+	"ta-sg": {
+		"language": "Tamil",
+		"location": "Singapore",
+		"id": 4096,
+		"tag": "ta-SG",
+		"version": "Release 10"
+	},
+	"ta-lk": {
+		"language": "Tamil",
+		"location": "Sri Lanka",
+		"id": 2121,
+		"tag": "ta-LK",
+		"version": "Release 8"
+	},
+	"twq": {
+		"language": "Tasawaq",
+		"location": null,
+		"id": 4096,
+		"tag": "twq",
+		"version": "Release 10"
+	},
+	"twq-ne": {
+		"language": "Tasawaq",
+		"location": "Niger",
+		"id": 4096,
+		"tag": "twq-NE",
+		"version": "Release 10"
+	},
+	"tt": {
+		"language": "Tatar",
+		"location": null,
+		"id": 68,
+		"tag": "tt",
+		"version": "Release 7"
+	},
+	"tt-ru": {
+		"language": "Tatar",
+		"location": "Russia",
+		"id": 1092,
+		"tag": "tt-RU",
+		"version": "Release D"
+	},
+	"te": {
+		"language": "Telugu",
+		"location": null,
+		"id": 74,
+		"tag": "te",
+		"version": "Release 7"
+	},
+	"te-in": {
+		"language": "Telugu",
+		"location": "India",
+		"id": 1098,
+		"tag": "te-IN",
+		"version": "Release D"
+	},
+	"teo": {
+		"language": "Teso",
+		"location": null,
+		"id": 4096,
+		"tag": "teo",
+		"version": "Release 10"
+	},
+	"teo-ke": {
+		"language": "Teso",
+		"location": "Kenya",
+		"id": 4096,
+		"tag": "teo-KE",
+		"version": "Release 10"
+	},
+	"teo-ug": {
+		"language": "Teso",
+		"location": "Uganda",
+		"id": 4096,
+		"tag": "teo-UG",
+		"version": "Release 10"
+	},
+	"th": {
+		"language": "Thai",
+		"location": null,
+		"id": 30,
+		"tag": "th",
+		"version": "Release 7"
+	},
+	"th-th": {
+		"language": "Thai",
+		"location": "Thailand",
+		"id": 1054,
+		"tag": "th-TH",
+		"version": "Release B"
+	},
+	"bo": {
+		"language": "Tibetan",
+		"location": null,
+		"id": 81,
+		"tag": "bo",
+		"version": "Release 7"
+	},
+	"bo-in": {
+		"language": "Tibetan",
+		"location": "India",
+		"id": 4096,
+		"tag": "bo-IN",
+		"version": "Release 10"
+	},
+	"bo-cn": {
+		"language": "Tibetan",
+		"location": "People's Republic of China",
+		"id": 1105,
+		"tag": "bo-CN",
+		"version": "Release V"
+	},
+	"tig": {
+		"language": "Tigre",
+		"location": null,
+		"id": 4096,
+		"tag": "tig",
+		"version": "Release 10"
+	},
+	"tig-er": {
+		"language": "Tigre",
+		"location": "Eritrea",
+		"id": 4096,
+		"tag": "tig-ER",
+		"version": "Release 10"
+	},
+	"ti": {
+		"language": "Tigrinya",
+		"location": null,
+		"id": 115,
+		"tag": "ti",
+		"version": "Release 8"
+	},
+	"ti-er": {
+		"language": "Tigrinya",
+		"location": "Eritrea",
+		"id": 2163,
+		"tag": "ti-ER",
+		"version": "Release 8"
+	},
+	"ti-et": {
+		"language": "Tigrinya",
+		"location": "Ethiopia",
+		"id": 1139,
+		"tag": "ti-ET",
+		"version": "Release 8"
+	},
+	"to": {
+		"language": "Tongan",
+		"location": null,
+		"id": 4096,
+		"tag": "to",
+		"version": "Release 10"
+	},
+	"to-to": {
+		"language": "Tongan",
+		"location": "Tonga",
+		"id": 4096,
+		"tag": "to-TO",
+		"version": "Release 10"
+	},
+	"ts": {
+		"language": "Tsonga",
+		"location": null,
+		"id": 49,
+		"tag": "ts",
+		"version": "Release 8.1"
+	},
+	"ts-za": {
+		"language": "Tsonga",
+		"location": "South Africa",
+		"id": 1073,
+		"tag": "ts-ZA",
+		"version": "Release 8.1"
+	},
+	"tr": {
+		"language": "Turkish",
+		"location": null,
+		"id": 31,
+		"tag": "tr",
+		"version": "Release 7"
+	},
+	"tr-cy": {
+		"language": "Turkish",
+		"location": "Cyprus",
+		"id": 4096,
+		"tag": "tr-CY",
+		"version": "Release 10"
+	},
+	"tr-tr": {
+		"language": "Turkish",
+		"location": "Turkey",
+		"id": 1055,
+		"tag": "tr-TR",
+		"version": "Release A"
+	},
+	"tk": {
+		"language": "Turkmen",
+		"location": null,
+		"id": 66,
+		"tag": "tk",
+		"version": "Release 7"
+	},
+	"tk-tm": {
+		"language": "Turkmen",
+		"location": "Turkmenistan",
+		"id": 1090,
+		"tag": "tk-TM",
+		"version": "Release V"
+	},
+	"uk": {
+		"language": "Ukrainian",
+		"location": null,
+		"id": 34,
+		"tag": "uk",
+		"version": "Release 7"
+	},
+	"uk-ua": {
+		"language": "Ukrainian",
+		"location": "Ukraine",
+		"id": 1058,
+		"tag": "uk-UA",
+		"version": "Release B"
+	},
+	"hsb": {
+		"language": "Upper Sorbian",
+		"location": null,
+		"id": 46,
+		"tag": "hsb",
+		"version": "Release 7"
+	},
+	"hsb-de": {
+		"language": "Upper Sorbian",
+		"location": "Germany",
+		"id": 1070,
+		"tag": "hsb-DE",
+		"version": "Release V"
+	},
+	"ur": {
+		"language": "Urdu",
+		"location": null,
+		"id": 32,
+		"tag": "ur",
+		"version": "Release 7"
+	},
+	"ur-in": {
+		"language": "Urdu",
+		"location": "India",
+		"id": 2080,
+		"tag": "ur-IN",
+		"version": "Release 8.1"
+	},
+	"ur-pk": {
+		"language": "Urdu",
+		"location": "Islamic Republic of Pakistan",
+		"id": 1056,
+		"tag": "ur-PK",
+		"version": "Release C"
+	},
+	"ug": {
+		"language": "Uyghur",
+		"location": null,
+		"id": 128,
+		"tag": "ug",
+		"version": "Release 7"
+	},
+	"ug-cn": {
+		"language": "Uyghur",
+		"location": "People's Republic of China",
+		"id": 1152,
+		"tag": "ug-CN",
+		"version": "Release V"
+	},
+	"uz-arab": {
+		"language": "Uzbek",
+		"location": "Perso-Arabic",
+		"id": 4096,
+		"tag": "uz-Arab",
+		"version": "Release 10"
+	},
+	"uz-arab-af": {
+		"language": "Uzbek",
+		"location": "Perso-Arabic, Afghanistan",
+		"id": 4096,
+		"tag": "uz-Arab-AF",
+		"version": "Release 10"
+	},
+	"uz-cyrl": {
+		"language": "Uzbek (Cyrillic)",
+		"location": null,
+		"id": 30787,
+		"tag": "uz-Cyrl",
+		"version": "Windows 7"
+	},
+	"uz-cyrl-uz": {
+		"language": "Uzbek (Cyrillic)",
+		"location": "Uzbekistan",
+		"id": 2115,
+		"tag": "uz-Cyrl-UZ",
+		"version": "Release C"
+	},
+	"uz": {
+		"language": "Uzbek (Latin)",
+		"location": null,
+		"id": 67,
+		"tag": "uz",
+		"version": "Release 7"
+	},
+	"uz-latn": {
+		"language": "Uzbek (Latin)",
+		"location": null,
+		"id": 31811,
+		"tag": "uz-Latn",
+		"version": "Windows 7"
+	},
+	"uz-latn-uz": {
+		"language": "Uzbek (Latin)",
+		"location": "Uzbekistan",
+		"id": 1091,
+		"tag": "uz-Latn-UZ",
+		"version": "Release C"
+	},
+	"vai": {
+		"language": "Vai",
+		"location": null,
+		"id": 4096,
+		"tag": "vai",
+		"version": "Release 10"
+	},
+	"vai-vaii": {
+		"language": "Vai",
+		"location": null,
+		"id": 4096,
+		"tag": "vai-Vaii",
+		"version": "Release 10"
+	},
+	"vai-vaii-lr": {
+		"language": "Vai",
+		"location": "Liberia",
+		"id": 4096,
+		"tag": "vai-Vaii-LR",
+		"version": "Release 10"
+	},
+	"vai-latn-lr": {
+		"language": "Vai (Latin)",
+		"location": "Liberia",
+		"id": 4096,
+		"tag": "vai-Latn-LR",
+		"version": "Release 10"
+	},
+	"vai-latn": {
+		"language": "Vai (Latin)",
+		"location": null,
+		"id": 4096,
+		"tag": "vai-Latn",
+		"version": "Release 10"
+	},
+	"ca-es-": {
+		"language": "Valencian",
+		"location": "Spain",
+		"id": 2051,
+		"tag": "ca-ES-",
+		"version": "Release 8"
+	},
+	"ve": {
+		"language": "Venda",
+		"location": null,
+		"id": 51,
+		"tag": "ve",
+		"version": "Release 10"
+	},
+	"ve-za": {
+		"language": "Venda",
+		"location": "South Africa",
+		"id": 1075,
+		"tag": "ve-ZA",
+		"version": "Release 10"
+	},
+	"vi": {
+		"language": "Vietnamese",
+		"location": null,
+		"id": 42,
+		"tag": "vi",
+		"version": "Release 7"
+	},
+	"vi-vn": {
+		"language": "Vietnamese",
+		"location": "Vietnam",
+		"id": 1066,
+		"tag": "vi-VN",
+		"version": "Release B"
+	},
+	"vo": {
+		"language": "Volapük",
+		"location": null,
+		"id": 4096,
+		"tag": "vo",
+		"version": "Release 10"
+	},
+	"vo-001": {
+		"language": "Volapük",
+		"location": "World",
+		"id": 4096,
+		"tag": "vo-001",
+		"version": "Release 10"
+	},
+	"vun": {
+		"language": "Vunjo",
+		"location": null,
+		"id": 4096,
+		"tag": "vun",
+		"version": "Release 10"
+	},
+	"vun-tz": {
+		"language": "Vunjo",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "vun-TZ",
+		"version": "Release 10"
+	},
+	"wae": {
+		"language": "Walser",
+		"location": null,
+		"id": 4096,
+		"tag": "wae",
+		"version": "Release 10"
+	},
+	"wae-ch": {
+		"language": "Walser",
+		"location": "Switzerland",
+		"id": 4096,
+		"tag": "wae-CH",
+		"version": "Release 10"
+	},
+	"cy": {
+		"language": "Welsh",
+		"location": null,
+		"id": 82,
+		"tag": "cy",
+		"version": "Release 7"
+	},
+	"cy-gb": {
+		"language": "Welsh",
+		"location": "United Kingdom",
+		"id": 1106,
+		"tag": "cy-GB",
+		"version": "ReleaseE1"
+	},
+	"wal": {
+		"language": "Wolaytta",
+		"location": null,
+		"id": 4096,
+		"tag": "wal",
+		"version": "Release 10"
+	},
+	"wal-et": {
+		"language": "Wolaytta",
+		"location": "Ethiopia",
+		"id": 4096,
+		"tag": "wal-ET",
+		"version": "Release 10"
+	},
+	"wo": {
+		"language": "Wolof",
+		"location": null,
+		"id": 136,
+		"tag": "wo",
+		"version": "Release 7"
+	},
+	"wo-sn": {
+		"language": "Wolof",
+		"location": "Senegal",
+		"id": 1160,
+		"tag": "wo-SN",
+		"version": "Release V"
+	},
+	"xh": {
+		"language": "Xhosa",
+		"location": null,
+		"id": 52,
+		"tag": "xh",
+		"version": "Release 7"
+	},
+	"xh-za": {
+		"language": "Xhosa",
+		"location": "South Africa",
+		"id": 1076,
+		"tag": "xh-ZA",
+		"version": "Release E1"
+	},
+	"yav": {
+		"language": "Yangben",
+		"location": null,
+		"id": 4096,
+		"tag": "yav",
+		"version": "Release 10"
+	},
+	"yav-cm": {
+		"language": "Yangben",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "yav-CM",
+		"version": "Release 10"
+	},
+	"ii": {
+		"language": "Yi",
+		"location": null,
+		"id": 120,
+		"tag": "ii",
+		"version": "Release 7"
+	},
+	"ii-cn": {
+		"language": "Yi",
+		"location": "People's Republic of China",
+		"id": 1144,
+		"tag": "ii-CN",
+		"version": "Release V"
+	},
+	"yo": {
+		"language": "Yoruba",
+		"location": null,
+		"id": 106,
+		"tag": "yo",
+		"version": "Release 7"
+	},
+	"yo-bj": {
+		"language": "Yoruba",
+		"location": "Benin",
+		"id": 4096,
+		"tag": "yo-BJ",
+		"version": "Release 10"
+	},
+	"yo-ng": {
+		"language": "Yoruba",
+		"location": "Nigeria",
+		"id": 1130,
+		"tag": "yo-NG",
+		"version": "Release V"
+	},
+	"dje": {
+		"language": "Zarma",
+		"location": null,
+		"id": 4096,
+		"tag": "dje",
+		"version": "Release 10"
+	},
+	"dje-ne": {
+		"language": "Zarma",
+		"location": "Niger",
+		"id": 4096,
+		"tag": "dje-NE",
+		"version": "Release 10"
+	},
+	"zu": {
+		"language": "Zulu",
+		"location": null,
+		"id": 53,
+		"tag": "zu",
+		"version": "Release 7"
+	},
+	"zu-za": {
+		"language": "Zulu",
+		"location": "South Africa",
+		"id": 1077,
+		"tag": "zu-ZA",
+		"version": "Release E1"
+	}
+}
