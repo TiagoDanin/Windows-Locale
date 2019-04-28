@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "pdf2json": "1.1.8"
+  }
+}
