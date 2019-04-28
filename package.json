@@ -1,5 +1,54 @@
 {
-  "devDependencies": {
-    "pdf2json": "1.1.8"
-  }
+	"name": "windows-locale",
+	"main": "index.json",
+	"preferGlobal": false,
+	"version": "0.0.1",
+	"description": "Windows Language Code Identifier (LCID) for JavaScript",
+	"author": {
+		"name": "Tiago Danin",
+		"email": "TiagoDanin@outlook.com",
+		"url": "https://TiagoDanin.github.io"
+	},
+	"license": "MIT",
+	"keywords": [
+		"code",
+		"i18n",
+		"language",
+		"languages",
+		"lcid",
+		"locale",
+		"locales",
+		"tag",
+		"windows"
+	],
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Nice Test :)\""
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TiagoDanin/Windows-Locale.git"
+	},
+	"homepage": "https://TiagoDanin.github.io/Windows-Locale",
+	"bugs": {
+		"url": "https://github.com/TiagoDanin/Windows-Locale/issues"
+	},
+	"github": {
+		"name": "Windows-Locale",
+		"owner": "TiagoDanin"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"index.json",
+		"package.json"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"pdf2json": "1.1.8"
+	}
 }
