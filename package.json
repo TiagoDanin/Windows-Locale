@@ -2,7 +2,7 @@
 	"name": "windows-locale",
 	"main": "index.json",
 	"preferGlobal": false,
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"description": "Windows Language Code Identifier (LCID) for JavaScript",
 	"author": {
 		"name": "Tiago Danin",
