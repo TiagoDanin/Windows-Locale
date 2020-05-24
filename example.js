@@ -1,4 +1,4 @@
-const locale = require('./')
+const locale = require('.')
 
 console.log(locale['pt-br'])
 /*

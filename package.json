@@ -23,10 +23,10 @@
 	],
 	"scripts": {
 		"start": "node index.js",
-		"test": "echo \"Nice Test :)\""
+		"test": "xo && node test.js"
 	},
 	"engines": {
-		"node": ">=8"
+		"node": ">=10"
 	},
 	"private": false,
 	"repository": {
@@ -49,6 +49,10 @@
 	],
 	"dependencies": {},
 	"devDependencies": {
-		"pdf2json": "1.1.8"
+		"pdf2json": "1.1.8",
+		"xo": "^0.30.0"
+	},
+	"xo": {
+		"semicolon": false
 	}
 }
