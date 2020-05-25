@@ -721,7 +721,7 @@
 		"version": "Release 10.5"
 	},
 	"tzm-latn-": {
-		"language": "Central Atlas Tamazight ",
+		"language": "Central Atlas Tamazight (Latin)",
 		"location": "Morocco",
 		"id": 4096,
 		"tag": "tzm-Latn-",
@@ -1695,7 +1695,7 @@
 	},
 	"en-sh": {
 		"language": "English",
-		"location": "St Helena, Ascension, Tristan da ",
+		"location": "St Helena, Ascension,  Tristan da Cunha",
 		"id": 4096,
 		"tag": "en-SH",
 		"version": "Release 10"
@@ -3311,7 +3311,7 @@
 		"version": "Release 10.2"
 	},
 	"nds-de": {
-		"language": "Low German ",
+		"language": "Low German",
 		"location": "Germany",
 		"id": 4096,
 		"tag": "nds-DE",
@@ -3403,7 +3403,7 @@
 	},
 	"mk-mk": {
 		"language": "Macedonian",
-		"location": "North Macedonia ",
+		"location": "North Macedonia",
 		"id": 1071,
 		"tag": "mk-MK",
 		"version": "Release C"
@@ -3661,17 +3661,24 @@
 		"version": "Release D"
 	},
 	"mn-mong": {
-		"language": "Mongolian (Traditional ",
+		"language": "Mongolian (Traditional Mongolian)",
 		"location": null,
 		"id": 31824,
 		"tag": "mn-Mong",
 		"version": "Windows 7"
 	},
-	"mn-mong-": {
-		"language": "Mongolian (Traditional ",
+	"mn-mong-cn": {
+		"language": "Mongolian (Traditional Mongolian)",
+		"location": "People's Republic of China",
+		"id": 2128,
+		"tag": "mn-Mong-CN",
+		"version": "Windows V"
+	},
+	"mn-mong-mn": {
+		"language": "Mongolian (Traditional Mongolian)",
 		"location": "Mongolia",
 		"id": 3152,
-		"tag": "mn-Mong-",
+		"tag": "mn-Mong-MN",
 		"version": "Windows 7"
 	},
 	"mfe": {
@@ -4110,21 +4117,21 @@
 	},
 	"qps-ploca": {
 		"language": "Pseudo Language",
-		"location": "Pseudo locale for east Asian/complex ",
+		"location": "Pseudo locale for east Asian/complex script localization testing",
 		"id": 1534,
 		"tag": "qps-ploca",
 		"version": "Release 7"
 	},
 	"qps-ploc": {
 		"language": "Pseudo Language",
-		"location": "Pseudo locale used for localization ",
+		"location": "Pseudo locale used for localization testing",
 		"id": 1281,
 		"tag": "qps-ploc",
 		"version": "Release 7"
 	},
 	"qps-plocm": {
 		"language": "Pseudo Language",
-		"location": "Pseudo locale used for localization ",
+		"location": "Pseudo locale used for localization testing of mirrored locales",
 		"id": 2559,
 		"tag": "qps-plocm",
 		"version": "Release 7"
@@ -5026,21 +5033,21 @@
 		"version": "Release B"
 	},
 	"zgh": {
-		"language": "Standard Moroccan ",
+		"language": "Standard Moroccan Tamazight",
 		"location": null,
 		"id": 4096,
 		"tag": "zgh",
 		"version": "Release 8.1"
 	},
 	"zgh-tfng-ma": {
-		"language": "Standard Moroccan ",
+		"language": "Standard Moroccan Tamazight",
 		"location": "Morocco",
 		"id": 4096,
 		"tag": "zgh-Tfng-MA",
 		"version": "Release 8.1"
 	},
 	"zgh-tfng": {
-		"language": "Standard Moroccan ",
+		"language": "Standard Moroccan Tamazight",
 		"location": "Tifinagh",
 		"id": 4096,
 		"tag": "zgh-Tfng",
