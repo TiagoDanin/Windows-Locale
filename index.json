@@ -721,7 +721,7 @@
 		"version": "Release 10.5"
 	},
 	"tzm-latn-": {
-		"language": "Central Atlas Tamazight (Latin)",
+		"language": "Central Atlas Tamazight ",
 		"location": "Morocco",
 		"id": 4096,
 		"tag": "tzm-Latn-",
@@ -1695,7 +1695,7 @@
 	},
 	"en-sh": {
 		"language": "English",
-		"location": "St Helena, Ascension,  Tristan da Cunha",
+		"location": "St Helena, Ascension, Tristan da ",
 		"id": 4096,
 		"tag": "en-SH",
 		"version": "Release 10"
@@ -3311,7 +3311,7 @@
 		"version": "Release 10.2"
 	},
 	"nds-de": {
-		"language": "Low German",
+		"language": "Low German ",
 		"location": "Germany",
 		"id": 4096,
 		"tag": "nds-DE",
@@ -3403,7 +3403,7 @@
 	},
 	"mk-mk": {
 		"language": "Macedonian",
-		"location": "North Macedonia",
+		"location": "North Macedonia ",
 		"id": 1071,
 		"tag": "mk-MK",
 		"version": "Release C"
@@ -3661,24 +3661,17 @@
 		"version": "Release D"
 	},
 	"mn-mong": {
-		"language": "Mongolian (Traditional Mongolian)",
+		"language": "Mongolian (Traditional ",
 		"location": null,
 		"id": 31824,
 		"tag": "mn-Mong",
 		"version": "Windows 7"
 	},
-	"mn-mong-cn": {
-		"language": "Mongolian (Traditional Mongolian)",
-		"location": "People's Republic of China",
-		"id": 2128,
-		"tag": "mn-Mong-CN",
-		"version": "Windows V"
-	},
-	"mn-mong-mn": {
-		"language": "Mongolian (Traditional Mongolian)",
+	"mn-mong-": {
+		"language": "Mongolian (Traditional ",
 		"location": "Mongolia",
 		"id": 3152,
-		"tag": "mn-Mong-MN",
+		"tag": "mn-Mong-",
 		"version": "Windows 7"
 	},
 	"mfe": {
@@ -4117,21 +4110,21 @@
 	},
 	"qps-ploca": {
 		"language": "Pseudo Language",
-		"location": "Pseudo locale for east Asian/complex script localization testing",
+		"location": "Pseudo locale for east Asian/complex ",
 		"id": 1534,
 		"tag": "qps-ploca",
 		"version": "Release 7"
 	},
 	"qps-ploc": {
 		"language": "Pseudo Language",
-		"location": "Pseudo locale used for localization testing",
+		"location": "Pseudo locale used for localization ",
 		"id": 1281,
 		"tag": "qps-ploc",
 		"version": "Release 7"
 	},
 	"qps-plocm": {
 		"language": "Pseudo Language",
-		"location": "Pseudo locale used for localization testing of mirrored locales",
+		"location": "Pseudo locale used for localization ",
 		"id": 2559,
 		"tag": "qps-plocm",
 		"version": "Release 7"
@@ -5033,21 +5026,21 @@
 		"version": "Release B"
 	},
 	"zgh": {
-		"language": "Standard Moroccan Tamazight",
+		"language": "Standard Moroccan ",
 		"location": null,
 		"id": 4096,
 		"tag": "zgh",
 		"version": "Release 8.1"
 	},
 	"zgh-tfng-ma": {
-		"language": "Standard Moroccan Tamazight",
+		"language": "Standard Moroccan ",
 		"location": "Morocco",
 		"id": 4096,
 		"tag": "zgh-Tfng-MA",
 		"version": "Release 8.1"
 	},
 	"zgh-tfng": {
-		"language": "Standard Moroccan Tamazight",
+		"language": "Standard Moroccan ",
 		"location": "Tifinagh",
 		"id": 4096,
 		"tag": "zgh-Tfng",
@@ -5598,5 +5591,201 @@
 		"id": 51,
 		"tag": "ve",
 		"version": "Release 10"
+	},
+	"ve-za": {
+		"language": "Venda",
+		"location": "South Africa",
+		"id": 1075,
+		"tag": "ve-ZA",
+		"version": "Release 10"
+	},
+	"vi": {
+		"language": "Vietnamese",
+		"location": null,
+		"id": 42,
+		"tag": "vi",
+		"version": "Release 7"
+	},
+	"vi-vn": {
+		"language": "Vietnamese",
+		"location": "Vietnam",
+		"id": 1066,
+		"tag": "vi-VN",
+		"version": "Release B"
+	},
+	"vo": {
+		"language": "Volapük",
+		"location": null,
+		"id": 4096,
+		"tag": "vo",
+		"version": "Release 10"
+	},
+	"vo-001": {
+		"language": "Volapük",
+		"location": "World",
+		"id": 4096,
+		"tag": "vo-001",
+		"version": "Release 10"
+	},
+	"vun": {
+		"language": "Vunjo",
+		"location": null,
+		"id": 4096,
+		"tag": "vun",
+		"version": "Release 10"
+	},
+	"vun-tz": {
+		"language": "Vunjo",
+		"location": "Tanzania",
+		"id": 4096,
+		"tag": "vun-TZ",
+		"version": "Release 10"
+	},
+	"wae": {
+		"language": "Walser",
+		"location": null,
+		"id": 4096,
+		"tag": "wae",
+		"version": "Release 10"
+	},
+	"wae-ch": {
+		"language": "Walser",
+		"location": "Switzerland",
+		"id": 4096,
+		"tag": "wae-CH",
+		"version": "Release 10"
+	},
+	"cy": {
+		"language": "Welsh",
+		"location": null,
+		"id": 82,
+		"tag": "cy",
+		"version": "Release 7"
+	},
+	"cy-gb": {
+		"language": "Welsh",
+		"location": "United Kingdom",
+		"id": 1106,
+		"tag": "cy-GB",
+		"version": "ReleaseE1"
+	},
+	"wal": {
+		"language": "Wolaytta",
+		"location": null,
+		"id": 4096,
+		"tag": "wal",
+		"version": "Release 10"
+	},
+	"wal-et": {
+		"language": "Wolaytta",
+		"location": "Ethiopia",
+		"id": 4096,
+		"tag": "wal-ET",
+		"version": "Release 10"
+	},
+	"wo": {
+		"language": "Wolof",
+		"location": null,
+		"id": 136,
+		"tag": "wo",
+		"version": "Release 7"
+	},
+	"wo-sn": {
+		"language": "Wolof",
+		"location": "Senegal",
+		"id": 1160,
+		"tag": "wo-SN",
+		"version": "Release V"
+	},
+	"xh": {
+		"language": "Xhosa",
+		"location": null,
+		"id": 52,
+		"tag": "xh",
+		"version": "Release 7"
+	},
+	"xh-za": {
+		"language": "Xhosa",
+		"location": "South Africa",
+		"id": 1076,
+		"tag": "xh-ZA",
+		"version": "Release E1"
+	},
+	"yav": {
+		"language": "Yangben",
+		"location": null,
+		"id": 4096,
+		"tag": "yav",
+		"version": "Release 10"
+	},
+	"yav-cm": {
+		"language": "Yangben",
+		"location": "Cameroon",
+		"id": 4096,
+		"tag": "yav-CM",
+		"version": "Release 10"
+	},
+	"ii": {
+		"language": "Yi",
+		"location": null,
+		"id": 120,
+		"tag": "ii",
+		"version": "Release 7"
+	},
+	"ii-cn": {
+		"language": "Yi",
+		"location": "People's Republic of China",
+		"id": 1144,
+		"tag": "ii-CN",
+		"version": "Release V"
+	},
+	"yo": {
+		"language": "Yoruba",
+		"location": null,
+		"id": 106,
+		"tag": "yo",
+		"version": "Release 7"
+	},
+	"yo-bj": {
+		"language": "Yoruba",
+		"location": "Benin",
+		"id": 4096,
+		"tag": "yo-BJ",
+		"version": "Release 10"
+	},
+	"yo-ng": {
+		"language": "Yoruba",
+		"location": "Nigeria",
+		"id": 1130,
+		"tag": "yo-NG",
+		"version": "Release V"
+	},
+	"dje": {
+		"language": "Zarma",
+		"location": null,
+		"id": 4096,
+		"tag": "dje",
+		"version": "Release 10"
+	},
+	"dje-ne": {
+		"language": "Zarma",
+		"location": "Niger",
+		"id": 4096,
+		"tag": "dje-NE",
+		"version": "Release 10"
+	},
+	"zu": {
+		"language": "Zulu",
+		"location": null,
+		"id": 53,
+		"tag": "zu",
+		"version": "Release 7"
+	},
+	"zu-za": {
+		"language": "Zulu",
+		"location": "South Africa",
+		"id": 1077,
+		"tag": "zu-ZA",
+		"version": "Release E1"
 	}
 }
