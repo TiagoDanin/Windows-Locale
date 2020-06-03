@@ -50,7 +50,7 @@
 	"dependencies": {},
 	"devDependencies": {
 		"pdf2json": "1.2.0",
-		"xo": "^0.30.0"
+		"xo": "^0.32.0"
 	},
 	"xo": {
 		"semicolon": false
