@@ -49,7 +49,7 @@
 	],
 	"dependencies": {},
 	"devDependencies": {
-		"pdf2json": "1.2.0",
+		"pdf2json": "1.2.1",
 		"xo": "^0.33.1"
 	},
 	"xo": {
