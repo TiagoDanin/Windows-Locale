@@ -1,6 +1,6 @@
 # Windows Locale
 
-[![Node](https://img.shields.io/node/v/windows-locale.svg?style=flat-square)](https://npmjs.org/package/windows-locale) [![Version](https://img.shields.io/npm/v/windows-locale.svg?style=flat-square)](https://npmjs.org/package/windows-locale) [![Downloads](https://img.shields.io/npm/dt/windows-locale.svg?style=flat-square)](https://npmjs.org/package/windows-locale) [![Build Status](https://app.travis-ci.com/TiagoDanin/Windows-Locale.svg?branch=master)](https://app.travis-ci.com/TiagoDanin/Windows-Locale)
+[![Node](https://img.shields.io/node/v/windows-locale.svg?style=flat-square)](https://npmjs.org/package/windows-locale) [![Version](https://img.shields.io/npm/v/windows-locale.svg?style=flat-square)](https://npmjs.org/package/windows-locale) [![Downloads](https://img.shields.io/npm/dt/windows-locale.svg?style=flat-square)](https://npmjs.org/package/windows-locale)
 
 Windows Language Code Identifier (LCID) for JavaScript
 
