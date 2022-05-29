@@ -916,11 +916,11 @@
 		"tag": "co-FR",
 		"version": "Release V"
 	},
-	"hr,": {
+	"hr": {
 		"language": "Croatian",
 		"location": null,
 		"id": 26,
-		"tag": "hr,",
+		"tag": "hr",
 		"version": "Release 7"
 	},
 	"hr-hr": {
