@@ -559,6 +559,27 @@
 		"tag": "bez-TZ",
 		"version": "Release 10"
 	},
+	"bho": {
+		"language": "Bhojpuri",
+		"location": null,
+		"id": 4096,
+		"tag": "bho",
+		"version": "Release 11"
+	},
+	"bho-deva": {
+		"language": "Bhojpuri (Devanagari)",
+		"location": null,
+		"id": 4096,
+		"tag": "bho-Deva",
+		"version": "Release 11"
+	},
+	"bho-deva-in": {
+		"language": "Bhojpuri (Devanagari)",
+		"location": "India",
+		"id": 4096,
+		"tag": "bho-Deva-IN",
+		"version": "Release 11"
+	},
 	"byn": {
 		"language": "Blin",
 		"location": null,
@@ -720,11 +741,18 @@
 		"tag": "ceb-Latn-PH",
 		"version": "Release 10.5"
 	},
-	"tzm-latn-": {
+	"tzm-arab-ma": {
+		"language": "Central Atlas Tamazight (Arabic)",
+		"location": "Morocco",
+		"id": 1119,
+		"tag": "tzm-Arab-MA",
+		"version": "Release 10"
+	},
+	"tzm-latn-ma": {
 		"language": "Central Atlas Tamazight (Latin)",
 		"location": "Morocco",
 		"id": 4096,
-		"tag": "tzm-Latn-",
+		"tag": "tzm-Latn-MA",
 		"version": "Release 10"
 	},
 	"ku": {
@@ -762,18 +790,25 @@
 		"tag": "ccp-Cakm",
 		"version": "Release 10.5"
 	},
-	"ccp-cakm-": {
+	"ccp-cakm-bd": {
+		"language": "Chakma",
+		"location": "Bangladesh",
+		"id": 4096,
+		"tag": "ccp-Cakm-BD",
+		"version": "Release 10.5"
+	},
+	"ccp-cakm-in": {
 		"language": "Chakma",
 		"location": "India",
 		"id": 4096,
-		"tag": "ccp-Cakm-",
+		"tag": "ccp-Cakm-IN",
 		"version": "Release 10.5"
 	},
-	"cd-ru": {
+	"ce-ru": {
 		"language": "Chechen",
 		"location": "Russia",
 		"id": 4096,
-		"tag": "cd-RU",
+		"tag": "ce-RU",
 		"version": "Release 10.1"
 	},
 	"chr": {
@@ -873,6 +908,27 @@
 		"id": 4096,
 		"tag": "cu-RU",
 		"version": "Release 10.1"
+	},
+	"cv": {
+		"language": "Chuvash",
+		"location": null,
+		"id": 4096,
+		"tag": "cv",
+		"version": "Release 11"
+	},
+	"cv-cyrl": {
+		"language": "Chuvash (Cyrillic)",
+		"location": null,
+		"id": 4096,
+		"tag": "cv-Cyrl",
+		"version": "Release 11"
+	},
+	"cv-cyrl-ru": {
+		"language": "Chuvash (Cyrillic)",
+		"location": "Russia",
+		"id": 4096,
+		"tag": "cv-Cyrl-RU",
+		"version": "Release 11"
 	},
 	"swc": {
 		"language": "Congo Swahili",
@@ -1469,6 +1525,13 @@
 		"tag": "en-MY",
 		"version": "Release V"
 	},
+	"en-mv": {
+		"language": "English",
+		"location": "Maldives",
+		"id": 4096,
+		"tag": "en-MV",
+		"version": "Release 11"
+	},
 	"en-mt": {
 		"language": "English",
 		"location": "Malta",
@@ -1695,7 +1758,7 @@
 	},
 	"en-sh": {
 		"language": "English",
-		"location": "St Helena, Ascension,  Tristan da Cunha",
+		"location": "St Helena, Ascension, Tristan da Cunha",
 		"id": 4096,
 		"tag": "en-SH",
 		"version": "Release 10"
@@ -2008,12 +2071,19 @@
 		"tag": "fr-CA",
 		"version": "Release A"
 	},
+	"fr-029": {
+		"language": "French",
+		"location": "Caribbean",
+		"id": 7180,
+		"tag": "fr-029",
+		"version": "Release 10"
+	},
 	"fr-cf": {
 		"language": "French",
 		"location": "Central African Republic",
 		"id": 4096,
 		"tag": "fr-CF",
-		"version": "Release10"
+		"version": "Release 10"
 	},
 	"fr-td": {
 		"language": "French",
@@ -2410,14 +2480,14 @@
 	"ff-ng": {
 		"language": "Fulah",
 		"location": "Nigeria",
-		"id": 4096,
+		"id": 1127,
 		"tag": "ff-NG",
 		"version": "Release 10"
 	},
 	"ff-latn-ng": {
 		"language": "Fulah (Latin)",
 		"location": "Nigeria",
-		"id": 4096,
+		"id": 1127,
 		"tag": "ff-Latn-NG",
 		"version": "Release 10.4"
 	},
@@ -2610,6 +2680,27 @@
 		"tag": "guz-KE",
 		"version": "Release 10"
 	},
+	"bgc": {
+		"language": "Haryanvi",
+		"location": null,
+		"id": 4096,
+		"tag": "bgc",
+		"version": "Release 11"
+	},
+	"bgc-deva": {
+		"language": "Haryanvi (Devanagari)",
+		"location": null,
+		"id": 4096,
+		"tag": "bgc-Deva",
+		"version": "Release 11"
+	},
+	"bgc-deva-in": {
+		"language": "Haryanvi (Devanagari)",
+		"location": "India",
+		"id": 4096,
+		"tag": "bgc-Deva-IN",
+		"version": "Release 11"
+	},
 	"ha": {
 		"language": "Hausa (Latin)",
 		"location": null,
@@ -2686,6 +2777,20 @@
 		"id": 1081,
 		"tag": "hi-IN",
 		"version": "Release C"
+	},
+	"hi-latn": {
+		"language": "Hindi (Latin)",
+		"location": null,
+		"id": 4096,
+		"tag": "hi-Latn",
+		"version": "Release 11"
+	},
+	"hi-latn-in": {
+		"language": "Hindi (Latin)",
+		"location": "India",
+		"id": 4096,
+		"tag": "hi-Latn-IN",
+		"version": "Release 11"
 	},
 	"hu": {
 		"language": "Hungarian",
@@ -2925,6 +3030,27 @@
 		"tag": "kab-DZ",
 		"version": "Release 10"
 	},
+	"kgp": {
+		"language": "Kaingang",
+		"location": null,
+		"id": 4096,
+		"tag": "kgp",
+		"version": "Release 11"
+	},
+	"kgp-latn": {
+		"language": "Kaingang (Latin)",
+		"location": null,
+		"id": 4096,
+		"tag": "kgp-Latn",
+		"version": "Release 11"
+	},
+	"kgp-latn-br": {
+		"language": "Kaingang (Latin)",
+		"location": "Brazil",
+		"id": 4096,
+		"tag": "kgp-Latn-BR",
+		"version": "Release 11"
+	},
 	"kkj": {
 		"language": "Kako",
 		"location": null,
@@ -2981,6 +3107,13 @@
 		"tag": "kn-IN",
 		"version": "Release D"
 	},
+	"kr-latn-ng": {
+		"language": "Kanuri (Latin)",
+		"location": "Nigeria",
+		"id": 1137,
+		"tag": "kr-Latn-NG",
+		"version": "Release 10"
+	},
 	"ks": {
 		"language": "Kashmiri",
 		"location": null,
@@ -3000,6 +3133,13 @@
 		"location": "Perso-Arabic",
 		"id": 4096,
 		"tag": "ks-Arab-IN",
+		"version": "Release 10"
+	},
+	"ks-deva-in": {
+		"language": "Kashmiri (Devanagari)",
+		"location": "India",
+		"id": 2144,
+		"tag": "ks-Deva-IN",
 		"version": "Release 10"
 	},
 	"kk": {
@@ -3239,6 +3379,13 @@
 		"id": 1108,
 		"tag": "lo-LA",
 		"version": "Release V"
+	},
+	"la-va": {
+		"language": "Latin",
+		"location": "Vatican City",
+		"id": 1142,
+		"tag": "la-VA",
+		"version": "Release 10.5"
 	},
 	"lv": {
 		"language": "Latvian",
@@ -3672,7 +3819,7 @@
 		"location": "People's Republic of China",
 		"id": 2128,
 		"tag": "mn-Mong-CN",
-		"version": "Windows V"
+		"version": "Release V"
 	},
 	"mn-mong-mn": {
 		"language": "Mongolian (Traditional Mongolian)",
@@ -3785,6 +3932,41 @@
 		"id": 4096,
 		"tag": "jgo-CM",
 		"version": "Release 10"
+	},
+	"yrl": {
+		"language": "Nheengatu",
+		"location": null,
+		"id": 4096,
+		"tag": "yrl",
+		"version": "Release 11"
+	},
+	"yrl-latn": {
+		"language": "Nheengatu (Latin)",
+		"location": null,
+		"id": 4096,
+		"tag": "yrl-Latn",
+		"version": "Release 11"
+	},
+	"yrl-latn-br": {
+		"language": "Nheengatu (Latin)",
+		"location": "Brazil",
+		"id": 4096,
+		"tag": "yrl-Latn-BR",
+		"version": "Release 11"
+	},
+	"yrl-latn-co": {
+		"language": "Nheengatu (Latin)",
+		"location": "Colombia",
+		"id": 4096,
+		"tag": "yrl-Latn-CO",
+		"version": "Release 11"
+	},
+	"yrl-latn-ve": {
+		"language": "Nheengatu (Latin)",
+		"location": "Venezuela",
+		"id": 4096,
+		"tag": "yrl-Latn-VE",
+		"version": "Release 11"
 	},
 	"lrc-iq": {
 		"language": "Northern Luri",
@@ -3904,6 +4086,13 @@
 		"id": 1154,
 		"tag": "oc-FR",
 		"version": "Release V"
+	},
+	"oc-es": {
+		"language": "Occitan",
+		"location": "Spain",
+		"id": 4096,
+		"tag": "oc-ES",
+		"version": "Release 11"
 	},
 	"or": {
 		"language": "Odia",
@@ -4191,6 +4380,27 @@
 		"id": 3179,
 		"tag": "quz-PE",
 		"version": "Release E1"
+	},
+	"raj": {
+		"language": "Rajasthani",
+		"location": null,
+		"id": 4096,
+		"tag": "raj",
+		"version": "Release 11"
+	},
+	"raj-deva": {
+		"language": "Rajasthani (Devanagari)",
+		"location": null,
+		"id": 4096,
+		"tag": "raj-Deva",
+		"version": "Release 11"
+	},
+	"raj-deva-in": {
+		"language": "Rajasthani (Devanagari)",
+		"location": "India",
+		"id": 4096,
+		"tag": "raj-Deva-IN",
+		"version": "Release 11"
 	},
 	"ksh": {
 		"language": "Ripuarian",
@@ -4513,6 +4723,27 @@
 		"id": 1103,
 		"tag": "sa-IN",
 		"version": "Release C"
+	},
+	"sc": {
+		"language": "Sardinian",
+		"location": null,
+		"id": 4096,
+		"tag": "sc",
+		"version": "Release 11"
+	},
+	"sc-latn": {
+		"language": "Sardinian (Latin)",
+		"location": null,
+		"id": 4096,
+		"tag": "sc-Latn",
+		"version": "Release 11"
+	},
+	"sc-latn-it": {
+		"language": "Sardinian (Latin)",
+		"location": "Italy",
+		"id": 4096,
+		"tag": "sc-Latn-IT",
+		"version": "Release 11"
 	},
 	"gd": {
 		"language": "Scottish Gaelic",
@@ -5020,7 +5251,7 @@
 	},
 	"es-us": {
 		"language": "Spanish",
-		"location": "UnitedStates",
+		"location": "United States",
 		"id": 21514,
 		"tag": "es-US",
 		"version": "Release V"
@@ -5541,7 +5772,7 @@
 		"location": null,
 		"id": 31811,
 		"tag": "uz-Latn",
-		"version": "Windows7"
+		"version": "Windows 7"
 	},
 	"uz-latn-uz": {
 		"language": "Uzbek (Latin)",
@@ -5585,11 +5816,11 @@
 		"tag": "vai-Latn",
 		"version": "Release 10"
 	},
-	"ca-es-": {
+	"ca-es-valencia": {
 		"language": "Valencian",
 		"location": "Spain",
 		"id": 2051,
-		"tag": "ca-ES-",
+		"tag": "ca-ES-valencia",
 		"version": "Release 8"
 	},
 	"ve": {
@@ -5674,7 +5905,7 @@
 		"location": "United Kingdom",
 		"id": 1106,
 		"tag": "cy-GB",
-		"version": "ReleaseE1"
+		"version": "Release E1"
 	},
 	"wal": {
 		"language": "Wolaytta",
@@ -5745,6 +5976,13 @@
 		"id": 1144,
 		"tag": "ii-CN",
 		"version": "Release V"
+	},
+	"yi-001": {
+		"language": "Yiddish",
+		"location": "World",
+		"id": 1085,
+		"tag": "yi-001",
+		"version": "Release 10"
 	},
 	"yo": {
 		"language": "Yoruba",
