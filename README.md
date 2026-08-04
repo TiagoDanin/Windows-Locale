@@ -47,7 +47,16 @@ Get Windows Language Code Identifier (LCID) information
 - version (String)
 
 ### Source
-**NOTE:** Source is [winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-LCID/%5bMS-LCID%5d.pdf](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-LCID/%5bMS-LCID%5d.pdf)
+**NOTE:** Data is generated from the Microsoft **[MS-LCID]: Windows Language Code Identifier (LCID) Reference** specification, revision **16.0** (2024-04-23).
+
+- Specification: [learn.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/70feba9f-294e-491e-b6eb-56532684c37f](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/70feba9f-294e-491e-b6eb-56532684c37f)
+- PDF: [winprotocoldocs-bhdugrdyduf5h2e4.b02.azurefd.net/MS-LCID/%5bMS-LCID%5d.pdf](https://winprotocoldocs-bhdugrdyduf5h2e4.b02.azurefd.net/MS-LCID/%5bMS-LCID%5d.pdf)
+
+To regenerate `index.json`, download the PDF above as `[MS-LCID].pdf` into the repository root and run:
+
+```sh
+yarn build
+```
 
 ## Dependencies
 

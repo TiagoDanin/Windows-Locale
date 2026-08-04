@@ -22,11 +22,11 @@
 		"windows"
 	],
 	"scripts": {
-		"start": "node index.js",
-		"test": "xo && node test.js"
+		"build": "node build.js",
+		"test": "node test.js"
 	},
 	"engines": {
-		"node": ">=v10.24.1"
+		"node": ">=v22.0.0"
 	},
 	"private": false,
 	"repository": {
@@ -49,10 +49,6 @@
 	],
 	"dependencies": {},
 	"devDependencies": {
-		"pdf2json": "1.2.1",
-		"xo": "^0.33.1"
-	},
-	"xo": {
-		"semicolon": false
+		"pdf2json": "^4.0.3"
 	}
 }
