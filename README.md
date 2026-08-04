@@ -18,7 +18,9 @@ yarn add windows-locale
 ## Example
 
 ```js
-const locale = require('windows-locale')
+import locale from 'windows-locale'
+// Or using the named export
+import { locales } from 'windows-locale'
 
 console.log(locale['pt-br'])
 /*
@@ -30,6 +32,18 @@ console.log(locale['pt-br'])
 	version: 'Release A'
 }
 */
+```
+
+> **CommonJS is still supported.** `const locale = require('windows-locale')`
+> keeps working and returns the same data.
+
+TypeScript types are bundled, the keys are checked at compile time:
+
+```ts
+import locale from 'windows-locale'
+
+locale['pt-br'].language // string
+locale['unknown'] // Type error
 ```
 
 ## Documentation
@@ -52,7 +66,7 @@ Get Windows Language Code Identifier (LCID) information
 - Specification: [learn.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/70feba9f-294e-491e-b6eb-56532684c37f](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/70feba9f-294e-491e-b6eb-56532684c37f)
 - PDF: [winprotocoldocs-bhdugrdyduf5h2e4.b02.azurefd.net/MS-LCID/%5bMS-LCID%5d.pdf](https://winprotocoldocs-bhdugrdyduf5h2e4.b02.azurefd.net/MS-LCID/%5bMS-LCID%5d.pdf)
 
-To regenerate `index.json`, download the PDF above as `[MS-LCID].pdf` into the repository root and run:
+To regenerate `index.json`, `index.d.ts`, `index.d.mts` and `index.mjs`, download the PDF above as `[MS-LCID].pdf` into the repository root and run:
 
 ```sh
 yarn build
@@ -65,6 +79,7 @@ None
 ## Dev Dependencies
 
 - [pdf2json](https://ghub.io/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by porting a fork of PDF.JS to Node.js
+- [standard](https://ghub.io/standard): JavaScript Standard Style
 
 ## Contributors
 

@@ -1,5 +1,8 @@
-const locale = require('.')
 const assert = require('assert')
+const fs = require('fs')
+const path = require('path')
+
+const locale = require('.')
 
 assert.equal(locale['pt-br'].language, 'Portuguese')
 assert.equal(locale['pt-br'].location, 'Brazil')
@@ -39,30 +42,67 @@ assert.equal(locale['ff-ng'].id, 1127)
 assert.equal(locale['ff-latn-ng'].id, 1127)
 
 for (const key of keys) {
-	const entry = locale[key]
+  const entry = locale[key]
 
-	assert.ok(!key.startsWith('-') && !key.endsWith('-'), `key "${key}" has a dangling separator`)
-	assert.equal(key, entry.tag.toLowerCase(), `key "${key}" does not match its tag "${entry.tag}"`)
-	assert.ok(!entry.tag.startsWith('-') && !entry.tag.endsWith('-'), `tag "${entry.tag}" has a dangling separator`)
+  assert.ok(!key.startsWith('-') && !key.endsWith('-'), `key "${key}" has a dangling separator`)
+  assert.equal(key, entry.tag.toLowerCase(), `key "${key}" does not match its tag "${entry.tag}"`)
+  assert.ok(!entry.tag.startsWith('-') && !entry.tag.endsWith('-'), `tag "${entry.tag}" has a dangling separator`)
 
-	for (const field of ['language', 'location', 'tag', 'version']) {
-		const value = entry[field]
-		if (value === null) {
-			continue
-		}
+  for (const field of ['language', 'location', 'tag', 'version']) {
+    const value = entry[field]
+    if (value === null) {
+      continue
+    }
 
-		assert.equal(typeof value, 'string', `${key}.${field} is not a string`)
-		assert.equal(value, value.trim(), `${key}.${field} ("${value}") is not trimmed`)
-		assert.ok(!value.includes('  '), `${key}.${field} ("${value}") has duplicated spaces`)
+    assert.equal(typeof value, 'string', `${key}.${field} is not a string`)
+    assert.equal(value, value.trim(), `${key}.${field} ("${value}") is not trimmed`)
+    assert.ok(!value.includes('  '), `${key}.${field} ("${value}") has duplicated spaces`)
 
-		const opened = (value.match(/\(/g) || []).length
-		const closed = (value.match(/\)/g) || []).length
-		assert.equal(opened, closed, `${key}.${field} ("${value}") has unbalanced parentheses`)
-	}
+    const opened = (value.match(/\(/g) || []).length
+    const closed = (value.match(/\)/g) || []).length
+    assert.equal(opened, closed, `${key}.${field} ("${value}") has unbalanced parentheses`)
+  }
 
-	assert.ok(entry.language, `${key} has no language`)
-	assert.ok(entry.version, `${key} has no version`)
-	assert.ok(Number.isInteger(entry.id), `${key} has an invalid id`)
+  assert.ok(entry.language, `${key} has no language`)
+  assert.ok(entry.version, `${key} has no version`)
+  assert.ok(Number.isInteger(entry.id), `${key} has an invalid id`)
 }
 
-console.log(`Done! ${keys.length} locales`)
+// The CommonJS entry point must keep returning the raw dataset, other packages
+// (locale-codes) depend on `require('windows-locale')` resolving to it.
+const cjs = require('windows-locale')
+
+assert.deepStrictEqual(cjs, locale, 'require("windows-locale") differs from require(".")')
+assert.equal(cjs['pt-br'].id, 1046)
+assert.equal(Object.keys(cjs).length, keys.length)
+
+// The generated declarations must list exactly the same keys as the dataset.
+const getDeclaredKeys = file => {
+  const types = fs.readFileSync(path.join(__dirname, file), 'utf8')
+  return [...types.matchAll(/^\t+\| '(.*)'$/gm)].map(([, key]) => key.replace(/\\(.)/g, '$1'))
+}
+
+assert.deepStrictEqual(getDeclaredKeys('index.d.ts'), keys, 'index.d.ts does not match the keys of index.json')
+assert.deepStrictEqual(getDeclaredKeys('index.d.mts'), keys, 'index.d.mts does not match the keys of index.json')
+
+// A module using `export =` cannot declare other top level exports, TypeScript
+// rejects the whole declaration file (TS2309) when it does.
+const cjsTypes = fs.readFileSync(path.join(__dirname, 'index.d.ts'), 'utf8')
+
+assert.ok(!/^export (interface|type|const|declare)/m.test(cjsTypes), 'index.d.ts mixes `export =` with other top level exports')
+
+const testModule = async () => {
+  const esm = await import('windows-locale')
+
+  assert.deepStrictEqual(esm.default, locale, 'the default export differs from the CommonJS data')
+  assert.deepStrictEqual(esm.locales, locale, 'the named export differs from the CommonJS data')
+  assert.equal(esm.default['pt-br'].id, 1046)
+  assert.equal(Object.keys(esm.default).length, keys.length)
+
+  console.log(`Done! ${keys.length} locales`)
+}
+
+testModule().catch(error => {
+  console.error(error)
+  process.exitCode = 1
+})

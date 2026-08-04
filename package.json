@@ -1,8 +1,23 @@
 {
 	"name": "windows-locale",
 	"main": "index.json",
+	"types": "index.d.ts",
+	"exports": {
+		".": {
+			"import": {
+				"types": "./index.d.mts",
+				"default": "./index.mjs"
+			},
+			"require": {
+				"types": "./index.d.ts",
+				"default": "./index.json"
+			}
+		},
+		"./index.json": "./index.json",
+		"./package.json": "./package.json"
+	},
 	"preferGlobal": false,
-	"version": "1.1.3",
+	"version": "1.2.0",
 	"description": "Windows Language Code Identifier (LCID) for JavaScript",
 	"author": {
 		"name": "Tiago Danin",
@@ -23,10 +38,16 @@
 	],
 	"scripts": {
 		"build": "node build.js",
-		"test": "node test.js"
+		"lint": "standard",
+		"test": "standard && node test.js"
+	},
+	"standard": {
+		"ignore": [
+			"index.mjs"
+		]
 	},
 	"engines": {
-		"node": ">=v22.0.0"
+		"node": ">=v14.17.4"
 	},
 	"private": false,
 	"repository": {
@@ -44,11 +65,14 @@
 	"files": [
 		"LICENSE",
 		"README.md",
+		"index.d.mts",
+		"index.d.ts",
 		"index.json",
+		"index.mjs",
 		"package.json"
 	],
-	"dependencies": {},
 	"devDependencies": {
-		"pdf2json": "^4.0.3"
+		"pdf2json": "^4.0.3",
+		"standard": "^17.1.2"
 	}
 }
