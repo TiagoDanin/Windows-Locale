@@ -22,6 +22,22 @@ assert.equal(locale['ccp-cakm'].tag, 'ccp-Cakm')
 assert.ok(locale['ca-es'], 'missing ca-es')
 assert.equal(locale['ca-es'].tag, 'ca-ES')
 
+// The rows the dangling separator used to truncate must be present in full,
+// otherwise the asserts above would still pass against the neutral tags alone.
+assert.equal(locale['tzm-latn-ma'].tag, 'tzm-Latn-MA')
+assert.equal(locale['tzm-arab-ma'].tag, 'tzm-Arab-MA')
+assert.equal(locale['ccp-cakm-bd'].tag, 'ccp-Cakm-BD')
+assert.equal(locale['ccp-cakm-in'].tag, 'ccp-Cakm-IN')
+assert.equal(locale['ca-es-valencia'].tag, 'ca-ES-valencia')
+assert.equal(locale['ca-es-valencia'].language, 'Valencian')
+
+// Entries the previous parser got wrong: `ce-RU` used to be read as `cd-RU`
+// and both Fulah/Nigeria rows carried the 0x1000 placeholder instead of 0x0467.
+assert.ok(!locale['cd-ru'], 'cd-ru is a misread of ce-RU')
+assert.equal(locale['ce-ru'].language, 'Chechen')
+assert.equal(locale['ff-ng'].id, 1127)
+assert.equal(locale['ff-latn-ng'].id, 1127)
+
 for (const key of keys) {
 	const entry = locale[key]
 

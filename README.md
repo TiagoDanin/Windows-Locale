@@ -27,7 +27,7 @@ console.log(locale['pt-br'])
 	location: 'Brazil',
 	id: 1046,
 	tag: 'pt-BR',
-	version: 'ReleaseA'
+	version: 'Release A'
 }
 */
 ```
